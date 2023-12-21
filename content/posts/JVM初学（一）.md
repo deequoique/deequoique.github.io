@@ -1,15 +1,15 @@
 +++
 title = 'JVM初学（一）'
-date = 2023-12-21T17:35:44+08:00
+date = 2023-07-07T17:35:44+08:00
 draft = false
 author = "Deequoique"
 categories = ["八股文"]
-tags = []
+tags = ["JAVA"]
 +++
 
-首先上一个经典JVM图，来自guide哥
+首先上一个经典JVM图，来自[guide哥](https://javaguide.cn/java/jvm/memory-area.html)
 
-![JVM](https://k1pbvftkden.feishu.cn/space/api/box/stream/download/asynccode/?code=ODZiNDU2NDZhOTgyOTAwNDAxMzI4YTA2OGMxZmEwODVfRU9ZWFZYZHFiN3RZYkZQeWFuUHhPTFRzenhBVllweEtfVG9rZW46WTA1ZmI2SFd6b21pczF4bFNiVWN0OEdHbmNlXzE3MDMxNTEyMTU6MTcwMzE1NDgxNV9WNA)
+<img src="/image/jvm.png" width = 80%>
 
 这一堆东西看的脑壳疼很久了。。。。
 
@@ -21,7 +21,7 @@ tags = []
 
 ### 虚拟机栈
 
-![](https://k1pbvftkden.feishu.cn/space/api/box/stream/download/asynccode/?code=MzZmZDA5MTJjNjUwMzc3Nzk5NWY1ODMxZjRhMDNmMDZfVkRxYVhMelpnSmlzZmtIdDVZWFozT1FFVUZvZVhwQ2JfVG9rZW46TjllOWI5M1Ayb1lDWU14ZmFreWNSMURVbndmXzE3MDMxNTEyMTU6MTcwMzE1NDgxNV9WNA)
+<img src="/image/vstack.png" width = 30%>
 
 由栈帧构成，里面存了操作数，返回地址，局部变量（也就是方法调用能用到的一切东西）。当方法创建时栈帧压入，销毁（return）时，栈帧弹出。
 
@@ -33,11 +33,7 @@ tags = []
 
 主要服务一个方法需要调用其他方法的场景。在 Java 源文件被编译成字节码文件时，所有的变量和方法引用都作为符号引用（Symbilic Reference）保存在 Class 文件的常量池里。当一个方法要调用其他方法，需要将常量池中指向方法的符号引用转化为其在内存地址中的直接引用。动态链接的作用就是为了将符号引用转换为调用方法的直接引用。
 
-<img src="https://k1pbvftkden.feishu.cn/space/api/box/stream/download/asynccode/?code=MzNlMTNlNmIxN2YxYTI0NzE1ZDkxOGM5MDM3MzRlM2JfRk9sT0E3aTJlZFFteExpRU9IOExhVU1uakU1UDIwcmtfVG9rZW46UUpwemJvczdKb0RETHd4emdabWNzVkFGblBkXzE3MDMxNTEyMTU6MTcwMzE1NDgxNV9WNA" width="80%">
-
----
-
-著作权归所有 原文链接：[javaguide](https://javaguide.cn/java/jvm/memory-area.html)
+<img src="/image/jvmlink.png" width="80%">
 
 #### StackOverFlowError
 
@@ -73,8 +69,8 @@ tags = []
 
 Java的垃圾回收机制感觉和那个操作系统的时间片轮转异曲同工吧，就是到年龄了就回收
 
-还是看一下1.8前后的变化
-<img src="https://k1pbvftkden.feishu.cn/space/api/box/stream/download/asynccode/?code=MTVhMDIwYjI5Y2FmMWIwMTJhN2UyY2NjNGQwNWI1YzdfQW0zYVZpWDRCN0J4TGZrRmF6dllRcTZUSnZEeG1abGZfVG9rZW46RkF3TWJUSWVsb0JmRG14VEtpSmNnQ2gybjhlXzE3MDMxNTEyMTU6MTcwMzE1NDgxNV9WNA" width="80%">
+还是看一下1.8前后的变化:
+<img src="/image/jdk8.png" width="80%">
 
 1. 新生代内存(Young Generation)
     
@@ -116,11 +112,7 @@ Java的垃圾回收机制感觉和那个操作系统的时间片轮转异曲同�
 
 为什么是死缓（被弃用了就是）
 
-![](https://k1pbvftkden.feishu.cn/space/api/box/stream/download/asynccode/?code=ZGE2YWQ4N2MxNDBmMDUwZmVjMjU4OWNlZTQ1N2I4Y2RfazZXUVJNZkJUNFUxQWVYNWgxMUplazJJTURVc2cyT09fVG9rZW46TTFTRGJzWUIybzlBbUR4WWkySWNRNFVtblRjXzE3MDMxNTEyMTU6MTcwMzE1NDgxNV9WNA)
-
-###### 引用类型
-
-[不是很复杂不想总结了 看guide吧](https://javaguide.cn/java/jvm/jvm-garbage-collection.html#%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B%E6%80%BB%E7%BB%93)
+<img src="/image/1.1.png" width="80%">
 
 ### 堆的OOM
 
