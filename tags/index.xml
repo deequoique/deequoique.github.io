@@ -4,5 +4,13 @@
         <link>https://deequoique.github.io/tags/</link>
         <description>Tags - Tag - Deequoique&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>javawangtl@163.com (Deequoique)</managingEditor>
-            <webMaster>javawangtl@163.com (Deequoique)</webMaster><atom:link href="https://deequoique.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>javawangtl@163.com (Deequoique)</webMaster><lastBuildDate>Fri, 07 Jul 2023 17:35:44 &#43;0800</lastBuildDate><atom:link href="https://deequoique.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>JAVA</title>
+    <link>https://deequoique.github.io/tags/java/</link>
+    <pubDate>Fri, 07 Jul 2023 17:35:44 &#43;0800</pubDate>
+    <author>Deequoique</author>
+    <guid>https://deequoique.github.io/tags/java/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>

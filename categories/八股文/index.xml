@@ -4,10 +4,10 @@
         <link>https://deequoique.github.io/categories/%E5%85%AB%E8%82%A1%E6%96%87/</link>
         <description>八股文 - Category - Deequoique&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>javawangtl@163.com (Deequoique)</managingEditor>
-            <webMaster>javawangtl@163.com (Deequoique)</webMaster><lastBuildDate>Thu, 21 Dec 2023 17:35:44 &#43;0800</lastBuildDate><atom:link href="https://deequoique.github.io/categories/%E5%85%AB%E8%82%A1%E6%96%87/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>javawangtl@163.com (Deequoique)</webMaster><lastBuildDate>Fri, 07 Jul 2023 17:35:44 &#43;0800</lastBuildDate><atom:link href="https://deequoique.github.io/categories/%E5%85%AB%E8%82%A1%E6%96%87/" rel="self" type="application/rss+xml" /><item>
     <title>JVM初学（一）</title>
     <link>https://deequoique.github.io/jvm%E5%88%9D%E5%AD%A6%E4%B8%80/</link>
-    <pubDate>Thu, 21 Dec 2023 17:35:44 &#43;0800</pubDate>
+    <pubDate>Fri, 07 Jul 2023 17:35:44 &#43;0800</pubDate>
     <author>Deequoique</author>
     <guid>https://deequoique.github.io/jvm%E5%88%9D%E5%AD%A6%E4%B8%80/</guid>
     <description><![CDATA[首先上一个经典JVM图，来自guide哥 这一堆东西看的脑壳疼很久了。。。。 先讲线程私有部分 程序计数器（PC） 它是唯一一个不会出现OOM的区域]]></description>
