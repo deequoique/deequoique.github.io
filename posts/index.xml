@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - Deequoique&#39;s blog</title>
+        <title>All Posts - Deequoique&#39;s 赛博小屋</title>
         <link>https://deequoique.github.io/posts/</link>
-        <description>All Posts | Deequoique&#39;s blog</description>
+        <description>All Posts | Deequoique&#39;s 赛博小屋</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>javawangtl@163.com (Deequoique)</managingEditor>
             <webMaster>javawangtl@163.com (Deequoique)</webMaster><lastBuildDate>Thu, 21 Dec 2023 22:20:19 &#43;0800</lastBuildDate><atom:link href="https://deequoique.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>一键部署hugo个人博客至远端</title>
-    <link>https://deequoique.github.io/%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2hugo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E8%87%B3%E8%BF%9C%E7%AB%AF/</link>
+    <title>hugo一键发布个人博客</title>
+    <link>https://deequoique.github.io/hugo%E4%B8%80%E9%94%AE%E5%8F%91%E5%B8%83%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
     <pubDate>Thu, 21 Dec 2023 22:20:19 &#43;0800</pubDate>
     <author>Deequoique</author>
-    <guid>https://deequoique.github.io/%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2hugo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E8%87%B3%E8%BF%9C%E7%AB%AF/</guid>
+    <guid>https://deequoique.github.io/hugo%E4%B8%80%E9%94%AE%E5%8F%91%E5%B8%83%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
     <description><![CDATA[以vscode为例，在项目根文件夹建立.vscode文件夹，文件夹内创建tasks.json文件，内容如下 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 {]]></description>
 </item>
 <item>
@@ -35,6 +35,14 @@
     <author>Deequoique</author>
     <guid>https://deequoique.github.io/jvm%E5%88%9D%E5%AD%A6%E4%B8%80/</guid>
     <description><![CDATA[首先上一个经典JVM图，来自guide哥 这一堆东西看的脑壳疼很久了。。。。 先讲线程私有部分 程序计数器（PC） 它是唯一一个不会出现OOM的区域]]></description>
+</item>
+<item>
+    <title>The Art Of Loving</title>
+    <link>https://deequoique.github.io/%E7%88%B1%E7%9A%84%E8%89%BA%E6%9C%AF/</link>
+    <pubDate>Sat, 03 Jun 2023 01:08:57 &#43;0800</pubDate>
+    <author>Deequoique</author>
+    <guid>https://deequoique.github.io/%E7%88%B1%E7%9A%84%E8%89%BA%E6%9C%AF/</guid>
+    <description><![CDATA[摘要 初入爱河的人总会想要谈论爱情，逃不开的。 好吧开玩笑的，这是一篇集合了很多书的读后感。算是吧。 又其实，它是演讲稿。 其实是情书 于我而言爱情是]]></description>
 </item>
 </channel>
 </rss>

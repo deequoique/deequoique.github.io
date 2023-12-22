@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>码农日记 - Category - Deequoique&#39;s blog</title>
+        <title>码农日记 - Category - Deequoique&#39;s 赛博小屋</title>
         <link>https://deequoique.github.io/categories/%E7%A0%81%E5%86%9C%E6%97%A5%E8%AE%B0/</link>
-        <description>码农日记 - Category - Deequoique&#39;s blog</description>
+        <description>码农日记 - Category - Deequoique&#39;s 赛博小屋</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>javawangtl@163.com (Deequoique)</managingEditor>
             <webMaster>javawangtl@163.com (Deequoique)</webMaster><lastBuildDate>Thu, 21 Dec 2023 22:20:19 &#43;0800</lastBuildDate><atom:link href="https://deequoique.github.io/categories/%E7%A0%81%E5%86%9C%E6%97%A5%E8%AE%B0/" rel="self" type="application/rss+xml" /><item>
-    <title>一键部署hugo个人博客至远端</title>
-    <link>https://deequoique.github.io/%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2hugo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E8%87%B3%E8%BF%9C%E7%AB%AF/</link>
+    <title>hugo一键发布个人博客</title>
+    <link>https://deequoique.github.io/hugo%E4%B8%80%E9%94%AE%E5%8F%91%E5%B8%83%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
     <pubDate>Thu, 21 Dec 2023 22:20:19 &#43;0800</pubDate>
     <author>Deequoique</author>
-    <guid>https://deequoique.github.io/%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2hugo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E8%87%B3%E8%BF%9C%E7%AB%AF/</guid>
+    <guid>https://deequoique.github.io/hugo%E4%B8%80%E9%94%AE%E5%8F%91%E5%B8%83%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
     <description><![CDATA[以vscode为例，在项目根文件夹建立.vscode文件夹，文件夹内创建tasks.json文件，内容如下 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 {]]></description>
 </item>
 </channel>
