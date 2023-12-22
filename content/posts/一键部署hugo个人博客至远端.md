@@ -3,7 +3,7 @@ title = '一键部署hugo个人博客至远端'
 date = 2023-12-21T22:20:19+08:00
 draft = false
 author = "Deequoique"
-categories = ["开发日志"]
+categories = ["码农日记"]
 tags = []
 +++
  以vscode为例，在项目根文件夹建立.vscode文件夹，文件夹内创建`tasks.json`文件，内容如下
@@ -31,8 +31,8 @@ tags = []
 - **label**: 任务名称。
 - **type**: 任务类型，这里是 "shell"，意味着它将在 shell 环境下执行。
 - **command**: 要执行的命令序列。
-    - `hugo --theme=Loveit --baseURL="https://onlane.github.io/"`：运行 Hugo 命令来生成站点，使用 Loveit 主题，设置基础 URL 为 "https://onlane.github.io/"。
-    - `cd public`：改变目录到 `public`。这里需要注意，`/public` 是一个绝对路径，确保这个路径在你的系统中是正确的。如果它应该是相对于你的 Hugo 项目的路径，那么应该是 `cd public` 而不是 `cd /public`。
+    - `hugo --theme=Loveit --baseURL="https://onlane.github.io/"`：运行 Hugo 命令来生成站点，使用 Loveit 主题，设置基础 URL 为你的远端仓库地址。
+    - `cd public`：改变目录到 `public`。
     - `git add . && git commit -m "Commit message" && git push`：将更改添加到 Git 暂存区，提交这些更改，并推送到远程仓库。
     - `cd ..`：返回到先前的目录。
 - **group**: 将此任务分组到 "build" 类别。
@@ -41,4 +41,4 @@ tags = []
     - **panel**: 使用共享的面板。
 - **problemMatcher**: 用于匹配输出中的问题，这里设置为空。
 
-Shift+ctrl+P运行命令，选择任务即可。
+Shift+ctrl+P运行命令，选择该任务即可。
