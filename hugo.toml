@@ -4,7 +4,7 @@ baseURL = "http://example.org/"
 theme = "LoveIt"
 
 # 网站标题
-title = "Deequoique's blog"
+title = "Deequoique's 赛博小屋"
 
 # 网站语言, 仅在这里 CN 大写 ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "zh-CN"
@@ -187,9 +187,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # 主页显示头像的 URL
       avatarURL = "/logo.png"
       #  主页显示的网站标题 (支持 HTML 格式)
-      title = "Deequoique's Blog"
+      title = "Deequoique's 赛博小屋"
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "欢迎光临～"
+      subtitle = "🍟喜欢您来<br>💻JAVA/web3/Godot<br>📝杂谈/小说🌈gl大量出没🌈<br>📓正经人谁写日记啊<br>❤️‍🔥心理学/哲学/社科<br>🎮pc/switch🕹️博启中🎲coc/dnd<br>㊙️独游摸鱼开发者（做不完的）"
       # 是否为副标题显示打字机动画
       typeit = true
       # 是否显示社交账号
@@ -216,7 +216,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     #  是否在搜索结果中隐藏一篇文章
     hiddenFromSearch = false
     #  是否使用 twemoji
-    twemoji = false
+    twemoji = true
     # 是否使用 lightgallery
     lightgallery = false
     #  是否使用 ruby 扩展语法
@@ -300,7 +300,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       Mix = false
     #  评论系统设置
     [params.page.comment]
-      enable = false
+      enable = true
       # Disqus 评论系统设置
       [params.page.comment.disqus]
         # 
@@ -318,9 +318,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Valine 评论系统设置
       [params.page.comment.valine]
         enable = true
-        appId = "nRyfmObCNx79TpMoXqZW9PRL-MdYXbMMI"
-        appKey = "KKVMgqJpRVNT9J9uT113oHYm"
-        placeholder = "评论一下！"
+        appId = "xXp7hKZAdBhGdTXs3ridbfNY-MdYXbMMI"
+        appKey = "CCGEhKR69Acc24jPraVHu1Mq"
+        placeholder = "多说说多说说～"
         avatar = "mp"
         meta= ""
         pageSize = 10
@@ -330,7 +330,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         recordIP = false
         highlight = true
         enableQQ = true
-        serverURLs = "https://nryfmobc.api.lncldglobal.com"
+        serverURLs = "https://xxp7hkza.api.lncldglobal.com"
         #  emoji 数据文件名称, 默认是 "google.yml"
         # ["apple.yml", "google.yml", "facebook.yml", "twitter.yml"]
         # 位于 "themes/LoveIt/assets/lib/valine/emoji/" 目录
@@ -453,7 +453,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   #  Cookie 许可配置
   [params.cookieconsent]
-    enable = true
+    enable = false
     # 用于 Cookie 许可横幅的文本字符串
     [params.cookieconsent.content]
       message = ""

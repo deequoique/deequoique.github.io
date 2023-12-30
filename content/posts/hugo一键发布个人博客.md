@@ -1,5 +1,5 @@
 +++
-title = '一键部署hugo个人博客至远端'
+title = 'hugo一键发布个人博客'
 date = 2023-12-21T22:20:19+08:00
 draft = false
 author = "Deequoique"

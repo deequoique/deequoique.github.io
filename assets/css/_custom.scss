@@ -1,0 +1,117 @@
+.home-profile {
+    margin-left: -1rem;
+    margin-right: -1rem;
+    background: rgb(52, 48, 45);
+	opacity: .85;
+    color: #ffffff;
+}
+[theme=dark] .home-profile {
+    background: #3a3535;
+	opacity: .8;
+}
+.summary {
+	margin-bottom: .1rem;
+    margin-left: -1rem;
+    margin-right: -1rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+    background: white;
+	opacity: .95;
+}
+[theme=dark] .summary {
+    background: #3a3535;
+}
+.footer {
+    display: block;
+	border-top-width: 3px;
+    border-top-style: solid;
+    border-top-color: #6670ab;
+    position: relative;
+    z-index: -1;
+    max-width: 800px;
+    width: 60%;
+    margin: .1rem auto 0 auto;
+	padding-left: 1rem;
+	padding-right: 1rem;
+    background: white;
+	opacity: .95;
+}
+[theme=dark] .footer {
+    background: #3a3535;
+}
+/* 目录 */
+.toc {
+    background: white;
+	opacity: .95;
+}
+[theme=dark] .toc {
+    background: #3a3535;
+}
+[theme=dark] #toc-auto {
+    border-left-color: #6f6a6a;
+}
+
+.toc .toc-content {
+    font-size: .8rem;
+}
+
+.toc .toc-content code {
+    border: none;
+    color: #f7ab01;
+    font-size: 1em;
+}
+
+/* 归档、标签、分类、特殊页面 */
+.page.archive, .page.single, .page.single.special {
+	padding-left: 5rem;
+	padding-right: 5rem;
+    padding-bottom: 2rem;
+    background: rgb(255, 255, 255);	
+	opacity: .95;
+}
+[theme=dark] .page.archive,
+[theme=dark] .page.single,
+[theme=dark] .page.single.special {
+    background: #3a3535;
+}
+
+.archive-item-date2 {
+    color: #a9a9b3;
+}
+
+[theme=dark] .archive .archive-item-date {
+    color: #a9a9b3;
+}
+
+.page.single.special .single-title.animated.pulse.faster {
+    padding-right: 1rem;
+}
+
+.archive .card-item-title a sup {
+    color: #a9a9b3;
+	font-weight: initial;
+}
+
+.archive .group-title sup {
+    color: #a9a9b3;
+	font-weight: initial;
+}
+
+.archive .single-title.animated.pulse.faster sup {
+	margin-left: .4rem;
+    color: #a9a9b3;
+	font-weight: initial;
+}
+
+[theme=dark] .archive .tag-cloud-tags a sup {
+    color: #a9a9b3;
+}
+
+/* 分类页面 */
+.archive .categories-card {
+    margin-top: 1rem;
+
+    & .card-item {
+        margin-top: 1rem;
+    }
+}
