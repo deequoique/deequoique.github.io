@@ -1,7 +1,7 @@
 {
     "label": "Publish Blog",
     "type": "shell",
-    "command": "hugo --theme=Loveit --baseURL=\"https://deequoique.github.io/\" && cd public && git add . && git commit -m \"Commit message\" && git push && cd ..",
+    "command": "hugo --theme=Loveit --baseURL=\"https://deequoique.github.io/\" && cd public && git add . && git commit -m \"Commit message\" && git push && cd .. && git add . && git commit -m \"Commit message\" && git push",
     "group": {
         "kind": "build",
         "isDefault": true
