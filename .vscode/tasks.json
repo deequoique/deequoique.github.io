@@ -12,5 +12,6 @@
         "showReuseMessage": false,
         "clear": false
     },
-    "problemMatcher": []
+    "problemMatcher": [],
+    "tasks": []
 }
