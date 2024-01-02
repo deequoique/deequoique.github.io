@@ -4,12 +4,12 @@
         <link>https://deequoique.github.io/tags/</link>
         <description>Tags - Tag - Deequoique&#39;s 赛博小屋</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>javawangtl@163.com (Deequoique)</managingEditor>
-            <webMaster>javawangtl@163.com (Deequoique)</webMaster><lastBuildDate>Sat, 30 Dec 2023 22:18:49 &#43;0800</lastBuildDate><atom:link href="https://deequoique.github.io/tags/" rel="self" type="application/rss+xml" /><item>
-    <title>r18</title>
-    <link>https://deequoique.github.io/tags/r18/</link>
-    <pubDate>Sat, 30 Dec 2023 22:18:49 &#43;0800</pubDate>
+            <webMaster>javawangtl@163.com (Deequoique)</webMaster><lastBuildDate>Tue, 02 Jan 2024 18:54:45 &#43;0800</lastBuildDate><atom:link href="https://deequoique.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>JAVA</title>
+    <link>https://deequoique.github.io/tags/java/</link>
+    <pubDate>Tue, 02 Jan 2024 18:54:45 &#43;0800</pubDate>
     <author>Deequoique</author>
-    <guid>https://deequoique.github.io/tags/r18/</guid>
+    <guid>https://deequoique.github.io/tags/java/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
@@ -18,14 +18,6 @@
     <pubDate>Sat, 16 Sep 2023 22:30:49 &#43;0800</pubDate>
     <author>Deequoique</author>
     <guid>https://deequoique.github.io/tags/db/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>JAVA</title>
-    <link>https://deequoique.github.io/tags/java/</link>
-    <pubDate>Fri, 07 Jul 2023 17:35:44 &#43;0800</pubDate>
-    <author>Deequoique</author>
-    <guid>https://deequoique.github.io/tags/java/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
