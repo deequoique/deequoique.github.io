@@ -11,7 +11,6 @@ tags = ["JAVA"]
 
 在你的配置类中添加分页插件。MyBatis-Plus 提供了一个分页拦截器 `PaginationInterceptor`，你需要将它配置为一个 Bean。
 
-javaCopy code
 ``` JAVA
 @Configuration
 public class MybatisPlusConfig {
