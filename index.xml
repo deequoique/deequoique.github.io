@@ -4,15 +4,15 @@
         <link>https://deequoique.github.io/</link>
         <description>宇宙星星档案馆</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>javawangtl@163.com (Deequoique)</managingEditor>
-            <webMaster>javawangtl@163.com (Deequoique)</webMaster><lastBuildDate>Thu, 04 Jan 2024 21:33:51 &#43;0800</lastBuildDate>
+            <webMaster>javawangtl@163.com (Deequoique)</webMaster><lastBuildDate>Mon, 08 Jan 2024 15:51:48 &#43;0800</lastBuildDate>
             <atom:link href="https://deequoique.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>我们三</title>
-    <link>https://deequoique.github.io/%E6%88%91%E4%BB%AC%E4%B8%89/</link>
-    <pubDate>Thu, 04 Jan 2024 21:33:51 &#43;0800</pubDate>
+    <title>Elastic Search（ES）Springboot 小白教程</title>
+    <link>https://deequoique.github.io/elastic-searchesspringboot-%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B/</link>
+    <pubDate>Mon, 08 Jan 2024 15:51:48 &#43;0800</pubDate>
     <author>Deequoique</author>
-    <guid>https://deequoique.github.io/%E6%88%91%E4%BB%AC%E4%B8%89/</guid>
-    <description><![CDATA[和杨绛老师谐个音吧。 忽然写这个的原因是收到然的消息，刘姐保了本校的硕士，由哲学系转去法学，她俩计划在假期一起吃顿饭，但也不一定真的会吃。按理]]></description>
+    <guid>https://deequoique.github.io/elastic-searchesspringboot-%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B/</guid>
+    <description><![CDATA[1. 添加依赖 maven: 1 2 3 4 5 6 7 8 &lt;dependencies&gt; &lt;!-- Spring Data Elasticsearch --&gt; &lt;dependency&gt; &lt;groupId&gt;org.springframework.boot&lt;/groupId&gt; &lt;artifactId&gt;spring-boot-starter-data-elasticsearch&lt;/artifactId&gt; &lt;/dependency&gt; &lt;!-- Other dependencies --&gt; &lt;/dependencies&gt; 2. 配置连接信息 在application.properties或applicatio]]></description>
 </item>
 <item>
     <title>MyBatis Plus分页查询</title>
