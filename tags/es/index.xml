@@ -10,7 +10,7 @@
     <pubDate>Mon, 08 Jan 2024 15:51:48 &#43;0800</pubDate>
     <author>Deequoique</author>
     <guid>https://deequoique.github.io/elastic-searchesspringboot-%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B/</guid>
-    <description><![CDATA[1. 添加依赖 maven: 1 2 3 4 5 6 7 8 &lt;dependencies&gt; &lt;!-- Spring Data Elasticsearch --&gt; &lt;dependency&gt; &lt;groupId&gt;org.springframework.boot&lt;/groupId&gt; &lt;artifactId&gt;spring-boot-starter-data-elasticsearch&lt;/artifactId&gt; &lt;/dependency&gt; &lt;!-- Other dependencies --&gt; &lt;/dependencies&gt; 2. 配置连接信息 在application.properties或applicatio]]></description>
+    <description><![CDATA[Elasticsearch 是一个开源的、高度可扩展的、全文搜索和分析引擎，它能够快速、近实时地存储、搜索和分析大量数据。Elasticsearch 常用于日志和事件数]]></description>
 </item>
 </channel>
 </rss>
