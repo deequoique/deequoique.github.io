@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>考研日记 - Category - Deequoique&#39;s 赛博小屋</title>
+        <link>http://localhost:1313/categories/%E8%80%83%E7%A0%94%E6%97%A5%E8%AE%B0/</link>
+        <description>考研日记 - Category - Deequoique&#39;s 赛博小屋</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>javawangtl@163.com (Deequoique)</managingEditor>
+            <webMaster>javawangtl@163.com (Deequoique)</webMaster><lastBuildDate>Mon, 27 May 2024 23:05:53 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E8%80%83%E7%A0%94%E6%97%A5%E8%AE%B0/" rel="self" type="application/rss+xml" /><item>
+    <title>考研时间表</title>
+    <link>http://localhost:1313/%E8%80%83%E7%A0%94%E6%97%B6%E9%97%B4%E8%A1%A8/</link>
+    <pubDate>Mon, 27 May 2024 23:05:53 &#43;0800</pubDate>
+    <author>Deequoique</author>
+    <guid>http://localhost:1313/%E8%80%83%E7%A0%94%E6%97%B6%E9%97%B4%E8%A1%A8/</guid>
+    <description><![CDATA[作息时间表（五月、六月） 9:00 - 12:00 数学 2:00 - 3:00 数学 3：]]></description>
+</item>
+<item>
+    <title>5月考研记录</title>
+    <link>http://localhost:1313/5%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95/</link>
+    <pubDate>Mon, 27 May 2024 20:38:21 &#43;0800</pubDate>
+    <author>Deequoique</author>
+    <guid>http://localhost:1313/5%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95/</guid>
+    <description><![CDATA[5/27 MON 计划与进度 高数：张宇chapter4：基本求导、四则运算、复合函数导数与微分形式不变性、分段函数的导数、反函数导数 &#x2705;例题4]]></description>
+</item>
+</channel>
+</rss>

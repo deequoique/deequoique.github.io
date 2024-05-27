@@ -1,0 +1,32 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Deequoique&#39;s 赛博小屋</title>
+        <link>http://localhost:1313/tags/</link>
+        <description>Tags - Tag - Deequoique&#39;s 赛博小屋</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>javawangtl@163.com (Deequoique)</managingEditor>
+            <webMaster>javawangtl@163.com (Deequoique)</webMaster><lastBuildDate>Sat, 20 Jan 2024 23:19:19 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>JAVA</title>
+    <link>http://localhost:1313/tags/java/</link>
+    <pubDate>Sat, 20 Jan 2024 23:19:19 &#43;0800</pubDate>
+    <author>Deequoique</author>
+    <guid>http://localhost:1313/tags/java/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>ES</title>
+    <link>http://localhost:1313/tags/es/</link>
+    <pubDate>Mon, 08 Jan 2024 15:51:48 &#43;0800</pubDate>
+    <author>Deequoique</author>
+    <guid>http://localhost:1313/tags/es/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>DB</title>
+    <link>http://localhost:1313/tags/db/</link>
+    <pubDate>Sat, 16 Sep 2023 22:30:49 &#43;0800</pubDate>
+    <author>Deequoique</author>
+    <guid>http://localhost:1313/tags/db/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

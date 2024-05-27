@@ -1,0 +1,90 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Deequoique&#39;s 赛博小屋</title>
+        <link>http://localhost:1313/</link>
+        <description>宇宙星星档案馆</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>javawangtl@163.com (Deequoique)</managingEditor>
+            <webMaster>javawangtl@163.com (Deequoique)</webMaster><lastBuildDate>Mon, 27 May 2024 23:05:53 &#43;0800</lastBuildDate>
+            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>考研计划</title>
+    <link>http://localhost:1313/%E8%80%83%E7%A0%94%E6%97%B6%E9%97%B4%E8%A1%A8/</link>
+    <pubDate>Mon, 27 May 2024 23:05:53 &#43;0800</pubDate>
+    <author>Deequoique</author>
+    <guid>http://localhost:1313/%E8%80%83%E7%A0%94%E6%97%B6%E9%97%B4%E8%A1%A8/</guid>
+    <description><![CDATA[作息时间表（五月、六月） 09:00 - 11:00 数学 13:30 - 15:30 数学 16:00 - 18:00 408 20:00 - 22:00 英语]]></description>
+</item>
+<item>
+    <title>5月考研记录</title>
+    <link>http://localhost:1313/5%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95/</link>
+    <pubDate>Mon, 27 May 2024 20:38:21 &#43;0800</pubDate>
+    <author>Deequoique</author>
+    <guid>http://localhost:1313/5%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95/</guid>
+    <description><![CDATA[5/27 MON 计划与进度 高数：张宇chapter4：基本求导、四则运算、复合函数导数与微分形式不变性、分段函数的导数、反函数导数 &#x2705;例题4]]></description>
+</item>
+<item>
+    <title>Spring框架中优雅地使用策略模式</title>
+    <link>http://localhost:1313/spring%E6%A1%86%E6%9E%B6%E4%B8%AD%E4%BC%98%E9%9B%85%E5%9C%B0%E4%BD%BF%E7%94%A8%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F/</link>
+    <pubDate>Sat, 20 Jan 2024 23:19:19 &#43;0800</pubDate>
+    <author>Deequoique</author>
+    <guid>http://localhost:1313/spring%E6%A1%86%E6%9E%B6%E4%B8%AD%E4%BC%98%E9%9B%85%E5%9C%B0%E4%BD%BF%E7%94%A8%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F/</guid>
+    <description><![CDATA[策略模式（Strategy Pattern）是一种行为设计模式，它使你能够定义一系列的算法，将每一个算法封装起来，并使它们可以互换使用。策略模]]></description>
+</item>
+<item>
+    <title>Elastic Search（ES）Springboot 小白教程</title>
+    <link>http://localhost:1313/elastic-searchesspringboot-%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B/</link>
+    <pubDate>Mon, 08 Jan 2024 15:51:48 &#43;0800</pubDate>
+    <author>Deequoique</author>
+    <guid>http://localhost:1313/elastic-searchesspringboot-%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B/</guid>
+    <description><![CDATA[Elasticsearch 是一个开源的、高度可扩展的、全文搜索和分析引擎，它能够快速、近实时地存储、搜索和分析大量数据。Elasticsearch 常用于日志和事件数]]></description>
+</item>
+<item>
+    <title>我们三</title>
+    <link>http://localhost:1313/%E6%88%91%E4%BB%AC%E4%B8%89/</link>
+    <pubDate>Thu, 04 Jan 2024 21:33:51 &#43;0800</pubDate>
+    <author>Deequoique</author>
+    <guid>http://localhost:1313/%E6%88%91%E4%BB%AC%E4%B8%89/</guid>
+    <description><![CDATA[和杨绛老师谐个音吧。 忽然写这个的原因是收到然的消息，刘姐保了本校的硕士，由哲学系转去法学，她俩计划在假期一起吃顿饭，但也不一定真的会吃。按理]]></description>
+</item>
+<item>
+    <title>MyBatis Plus分页查询</title>
+    <link>http://localhost:1313/mybatis-plus%E5%88%86%E9%A1%B5%E6%9F%A5%E8%AF%A2/</link>
+    <pubDate>Tue, 02 Jan 2024 18:54:45 &#43;0800</pubDate>
+    <author>Deequoique</author>
+    <guid>http://localhost:1313/mybatis-plus%E5%88%86%E9%A1%B5%E6%9F%A5%E8%AF%A2/</guid>
+    <description><![CDATA[1. 引入MyBatis- plus依赖 2. 配置分页插件 在你的配置类中添加分页插件。MyBatis-Plus 提供了一个分页拦截器 Pagination]]></description>
+</item>
+<item>
+    <title>hugo一键发布个人博客</title>
+    <link>http://localhost:1313/hugo%E4%B8%80%E9%94%AE%E5%8F%91%E5%B8%83%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+    <pubDate>Thu, 21 Dec 2023 22:20:19 &#43;0800</pubDate>
+    <author>Deequoique</author>
+    <guid>http://localhost:1313/hugo%E4%B8%80%E9%94%AE%E5%8F%91%E5%B8%83%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+    <description><![CDATA[以vscode为例，在项目根文件夹建立.vscode文件夹，文件夹内创建tasks.json文件，内容如下 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 {]]></description>
+</item>
+<item>
+    <title>MySQL事务</title>
+    <link>http://localhost:1313/mysql%E4%BA%8B%E5%8A%A1/</link>
+    <pubDate>Sat, 16 Sep 2023 22:30:49 &#43;0800</pubDate>
+    <author>Deequoique</author>
+    <guid>http://localhost:1313/mysql%E4%BA%8B%E5%8A%A1/</guid>
+    <description><![CDATA[ACID A:原子性（Atomicity） C：一致性（Consistency） I：隔离性（Isolation） D：持久性（Durability） 原子]]></description>
+</item>
+<item>
+    <title>MySQL初见</title>
+    <link>http://localhost:1313/mysql%E5%88%9D%E8%A7%81/</link>
+    <pubDate>Sat, 08 Jul 2023 22:24:39 &#43;0800</pubDate>
+    <author>Deequoique</author>
+    <guid>http://localhost:1313/mysql%E5%88%9D%E8%A7%81/</guid>
+    <description><![CDATA[架构 连接器连接用户 看缓存记录里有没有对应记录（8.0删除了）（key是sql语句，value是结果） 分析器词法分析、语法分析-&gt;预处理]]></description>
+</item>
+<item>
+    <title>JVM初学（一）</title>
+    <link>http://localhost:1313/jvm%E5%88%9D%E5%AD%A6%E4%B8%80/</link>
+    <pubDate>Fri, 07 Jul 2023 17:35:44 &#43;0800</pubDate>
+    <author>Deequoique</author>
+    <guid>http://localhost:1313/jvm%E5%88%9D%E5%AD%A6%E4%B8%80/</guid>
+    <description><![CDATA[首先上一个经典JVM图，来自guide哥 这一堆东西看的脑壳疼很久了。。。。 先讲线程私有部分 程序计数器（PC） 它是唯一一个不会出现OOM的区域]]></description>
+</item>
+</channel>
+</rss>
