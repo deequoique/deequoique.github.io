@@ -2,9 +2,10 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>http://localhost:1313/6%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w1/</loc><lastmod>2024-06-01T09:26:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/</loc><lastmod>2024-06-01T09:26:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/posts/</loc><lastmod>2024-06-01T09:26:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1313/categories/</loc><lastmod>2024-05-27T23:05:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/</loc><lastmod>2024-05-27T23:05:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/posts/</loc><lastmod>2024-05-27T23:05:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1313/categories/%E8%80%83%E7%A0%94%E6%97%A5%E8%AE%B0/</loc><lastmod>2024-05-27T23:05:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1313/%E8%80%83%E7%A0%94%E6%97%B6%E9%97%B4%E8%A1%A8/</loc><lastmod>2024-05-27T23:05:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1313/5%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95/</loc><lastmod>2024-05-27T20:38:21&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
