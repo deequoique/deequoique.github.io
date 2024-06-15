@@ -2,13 +2,14 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/6%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w1/</loc><lastmod>2024-06-01T09:26:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/</loc><lastmod>2024-06-01T09:26:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/posts/</loc><lastmod>2024-06-01T09:26:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/categories/</loc><lastmod>2024-05-27T23:05:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/categories/%E8%80%83%E7%A0%94%E6%97%A5%E8%AE%B0/</loc><lastmod>2024-05-27T23:05:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/%E8%80%83%E7%A0%94%E6%97%B6%E9%97%B4%E8%A1%A8/</loc><lastmod>2024-05-27T23:05:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/5%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95/</loc><lastmod>2024-05-27T20:38:21&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/6%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w2/</loc><lastmod>2024-06-12T16:35:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/categories/</loc><lastmod>2024-06-12T16:35:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/</loc><lastmod>2024-06-12T16:35:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/posts/</loc><lastmod>2024-06-12T16:35:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/categories/%E8%80%83%E7%A0%94%E6%97%A5%E8%AE%B0/</loc><lastmod>2024-06-12T16:35:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/6%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w1/</loc><lastmod>2024-06-01T09:26:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:1313/%E8%80%83%E7%A0%94%E6%97%B6%E9%97%B4%E8%A1%A8/</loc><lastmod>2024-05-27T23:05:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>http://localhost:1313/5%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95/</loc><lastmod>2024-05-27T20:38:21&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
             <loc>http://localhost:1313/tags/java/</loc><lastmod>2024-01-20T23:19:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://localhost:1313/spring%E6%A1%86%E6%9E%B6%E4%B8%AD%E4%BC%98%E9%9B%85%E5%9C%B0%E4%BD%BF%E7%94%A8%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F/</loc><lastmod>2024-01-20T23:19:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://localhost:1313/tags/</loc><lastmod>2024-01-20T23:19:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>

@@ -4,15 +4,23 @@
         <link>http://localhost:1313/</link>
         <description>宇宙星星档案馆</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>javawangtl@163.com (Deequoique)</managingEditor>
-            <webMaster>javawangtl@163.com (Deequoique)</webMaster><lastBuildDate>Sat, 01 Jun 2024 09:26:03 &#43;0800</lastBuildDate>
+            <webMaster>javawangtl@163.com (Deequoique)</webMaster><lastBuildDate>Wed, 12 Jun 2024 16:35:57 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>6月考研记录w2</title>
+    <link>http://localhost:1313/6%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w2/</link>
+    <pubDate>Wed, 12 Jun 2024 16:35:57 &#43;0800</pubDate>
+    <author>Deequoique</author>
+    <guid>http://localhost:1313/6%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w2/</guid>
+    <description><![CDATA[6/12 WES awake：9am asleep：1.5am 计划与进度 高数 chapter6 微分等式 微分不等式 数据结构 图的遍历 图的应用 英语 单词<sup>20</sup>/<sub>100</sub> 6/13 THU awake: 9.5am]]></description>
+</item>
+<item>
     <title>6月考研记录w1</title>
     <link>http://localhost:1313/6%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w1/</link>
     <pubDate>Sat, 01 Jun 2024 09:26:03 &#43;0800</pubDate>
     <author>Deequoique</author>
     <guid>http://localhost:1313/6%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w1/</guid>
-    <description><![CDATA[6/1 SAT awake：9am asleep： &#x1f62d;&#x1f62d;&#x1f62d;&#x1f62d;&#x1f62d;&#x1f62d; 计划与进度 高数 chapter5、6 最值或取值范围 作函数图像 曲率及曲率半径 chapter5习题 中值定理 数]]></description>
+    <description><![CDATA[6/1 SAT awake：9am asleep：1am &#x1f62d;&#x1f62d;&#x1f62d;&#x1f62d;&#x1f62d;&#x1f62d; 计划与进度 高数 chapter5、6 最值或取值范围 作函数图像 曲率及曲率半径 chapter5习题 中值]]></description>
 </item>
 <item>
     <title>考研计划</title>
@@ -77,14 +85,6 @@
     <author>Deequoique</author>
     <guid>http://localhost:1313/mysql%E4%BA%8B%E5%8A%A1/</guid>
     <description><![CDATA[ACID A:原子性（Atomicity） C：一致性（Consistency） I：隔离性（Isolation） D：持久性（Durability） 原子]]></description>
-</item>
-<item>
-    <title>MySQL初见</title>
-    <link>http://localhost:1313/mysql%E5%88%9D%E8%A7%81/</link>
-    <pubDate>Sat, 08 Jul 2023 22:24:39 &#43;0800</pubDate>
-    <author>Deequoique</author>
-    <guid>http://localhost:1313/mysql%E5%88%9D%E8%A7%81/</guid>
-    <description><![CDATA[架构 连接器连接用户 看缓存记录里有没有对应记录（8.0删除了）（key是sql语句，value是结果） 分析器词法分析、语法分析-&gt;预处理]]></description>
 </item>
 </channel>
 </rss>
