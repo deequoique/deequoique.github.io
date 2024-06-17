@@ -50,7 +50,7 @@ chapter 8
 ## 6/15 SAT
 awake:9am
 
-asleep:
+asleep: 12pm
 
 ### 计划与进度
 

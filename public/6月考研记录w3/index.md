@@ -1,11 +1,5 @@
-+++
-title = '6月考研记录w3'
-date = 2024-06-17T09:29:48+08:00
-draft = false
-author = "Deequoique"
-categories = ["考研日记"]
-tags = []
-+++
+# 6月考研记录w3
+
 
 ## 6/17 MON
 awake：9am
