@@ -152,7 +152,7 @@ chapter8 排序
 ## 6/23 SUN
 awake:9.5am
 
-asleep:
+asleep: 1am
 
 ### 计划与进度
 

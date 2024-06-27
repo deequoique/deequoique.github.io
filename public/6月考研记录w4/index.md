@@ -1,11 +1,5 @@
-+++
-title = '6月考研记录w4'
-date = 2024-06-25T19:45:04+08:00
-draft = false
-author = "Deequoique"
-categories = ["考研日记"]
-tags = []
-+++
+# 6月考研记录w4
+
 
 ## 6/25 TUS
 awake:9.5am
