@@ -4,9 +4,17 @@
         <link>http://localhost:1313/</link>
         <description>宇宙星星档案馆</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>javawangtl@163.com (Deequoique)</managingEditor>
-            <webMaster>javawangtl@163.com (Deequoique)</webMaster><lastBuildDate>Tue, 02 Jul 2024 10:48:58 &#43;0800</lastBuildDate>
+            <webMaster>javawangtl@163.com (Deequoique)</webMaster><lastBuildDate>Mon, 08 Jul 2024 10:27:25 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>7月考研记录w2</title>
+    <link>http://localhost:1313/7%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w2/</link>
+    <pubDate>Mon, 08 Jul 2024 10:27:25 &#43;0800</pubDate>
+    <author>Deequoique</author>
+    <guid>http://localhost:1313/7%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w2/</guid>
+    <description><![CDATA[7/8 MON awake:8.5am asleep: 计划与进度 高数 chapter 13 多元函数的极值与最值 习题 计组 chapter2.3视频看完 chapter2题做完 英语 单词<sup>130</sup>/<sub>100</sub> 阅读]]></description>
+</item>
+<item>
     <title>7月考研记录w1</title>
     <link>http://localhost:1313/7%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w1/</link>
     <pubDate>Tue, 02 Jul 2024 10:48:58 &#43;0800</pubDate>
@@ -77,14 +85,6 @@
     <author>Deequoique</author>
     <guid>http://localhost:1313/elastic-searchesspringboot-%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B/</guid>
     <description><![CDATA[Elasticsearch 是一个开源的、高度可扩展的、全文搜索和分析引擎，它能够快速、近实时地存储、搜索和分析大量数据。Elasticsearch 常用于日志和事件数]]></description>
-</item>
-<item>
-    <title>我们三</title>
-    <link>http://localhost:1313/%E6%88%91%E4%BB%AC%E4%B8%89/</link>
-    <pubDate>Thu, 04 Jan 2024 21:33:51 &#43;0800</pubDate>
-    <author>Deequoique</author>
-    <guid>http://localhost:1313/%E6%88%91%E4%BB%AC%E4%B8%89/</guid>
-    <description><![CDATA[和杨绛老师谐个音吧。 忽然写这个的原因是收到然的消息，刘姐保了本校的硕士，由哲学系转去法学，她俩计划在假期一起吃顿饭，但也不一定真的会吃。按理]]></description>
 </item>
 </channel>
 </rss>
