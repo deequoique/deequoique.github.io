@@ -4,7 +4,15 @@
         <link>http://localhost:1313/posts/</link>
         <description>All Posts | Deequoique&#39;s 赛博小屋</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>javawangtl@163.com (Deequoique)</managingEditor>
-            <webMaster>javawangtl@163.com (Deequoique)</webMaster><lastBuildDate>Mon, 08 Jul 2024 10:27:25 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>javawangtl@163.com (Deequoique)</webMaster><lastBuildDate>Mon, 15 Jul 2024 13:27:32 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>7月考研记录w3</title>
+    <link>http://localhost:1313/7%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w3/</link>
+    <pubDate>Mon, 15 Jul 2024 13:27:32 &#43;0800</pubDate>
+    <author>Deequoique</author>
+    <guid>http://localhost:1313/7%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w3/</guid>
+    <description><![CDATA[7/15 MON awake:10.5am asleep: 计划与进度 高数 chapter 15 一阶微分方程的求解<sup>0</sup>/<sub>3</sub> 计组 视频3.3 视频3.4 英语 单词<sup>130</sup>/<sub>100</sub> 阅读 7/17 WES awake:9.5am asleep:12am 计划与进度 高数 1]]></description>
+</item>
+<item>
     <title>7月考研记录w2</title>
     <link>http://localhost:1313/7%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w2/</link>
     <pubDate>Mon, 08 Jul 2024 10:27:25 &#43;0800</pubDate>
@@ -75,14 +83,6 @@
     <author>Deequoique</author>
     <guid>http://localhost:1313/spring%E6%A1%86%E6%9E%B6%E4%B8%AD%E4%BC%98%E9%9B%85%E5%9C%B0%E4%BD%BF%E7%94%A8%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F/</guid>
     <description><![CDATA[策略模式（Strategy Pattern）是一种行为设计模式，它使你能够定义一系列的算法，将每一个算法封装起来，并使它们可以互换使用。策略模]]></description>
-</item>
-<item>
-    <title>Elastic Search（ES）Springboot 小白教程</title>
-    <link>http://localhost:1313/elastic-searchesspringboot-%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B/</link>
-    <pubDate>Mon, 08 Jan 2024 15:51:48 &#43;0800</pubDate>
-    <author>Deequoique</author>
-    <guid>http://localhost:1313/elastic-searchesspringboot-%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B/</guid>
-    <description><![CDATA[Elasticsearch 是一个开源的、高度可扩展的、全文搜索和分析引擎，它能够快速、近实时地存储、搜索和分析大量数据。Elasticsearch 常用于日志和事件数]]></description>
 </item>
 </channel>
 </rss>
