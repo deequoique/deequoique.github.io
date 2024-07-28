@@ -4,9 +4,17 @@
         <link>http://localhost:1313/</link>
         <description>宇宙星星档案馆</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>javawangtl@163.com (Deequoique)</managingEditor>
-            <webMaster>javawangtl@163.com (Deequoique)</webMaster><lastBuildDate>Mon, 15 Jul 2024 13:27:32 &#43;0800</lastBuildDate>
+            <webMaster>javawangtl@163.com (Deequoique)</webMaster><lastBuildDate>Tue, 23 Jul 2024 10:55:31 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>7月考研记录w4</title>
+    <link>http://localhost:1313/7%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w4/</link>
+    <pubDate>Tue, 23 Jul 2024 10:55:31 &#43;0800</pubDate>
+    <author>Deequoique</author>
+    <guid>http://localhost:1313/7%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w4/</guid>
+    <description><![CDATA[7/23 TUS 计划与进度 高数 12：00 - 13：20 常数项级数的概念与性质 英语 单词<sup>130</sup>/<sub>100</sub>]]></description>
+</item>
+<item>
     <title>7月考研记录w3</title>
     <link>http://localhost:1313/7%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w3/</link>
     <pubDate>Mon, 15 Jul 2024 13:27:32 &#43;0800</pubDate>
@@ -77,14 +85,6 @@
     <author>Deequoique</author>
     <guid>http://localhost:1313/5%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95/</guid>
     <description><![CDATA[5/27 MON awake：9am asleep：2am 计划与进度 高数：张宇chapter4：基本求导、四则运算、复合函数导数与微分形式不变性、分段函数的]]></description>
-</item>
-<item>
-    <title>Spring框架中优雅地使用策略模式</title>
-    <link>http://localhost:1313/spring%E6%A1%86%E6%9E%B6%E4%B8%AD%E4%BC%98%E9%9B%85%E5%9C%B0%E4%BD%BF%E7%94%A8%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F/</link>
-    <pubDate>Sat, 20 Jan 2024 23:19:19 &#43;0800</pubDate>
-    <author>Deequoique</author>
-    <guid>http://localhost:1313/spring%E6%A1%86%E6%9E%B6%E4%B8%AD%E4%BC%98%E9%9B%85%E5%9C%B0%E4%BD%BF%E7%94%A8%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F/</guid>
-    <description><![CDATA[策略模式（Strategy Pattern）是一种行为设计模式，它使你能够定义一系列的算法，将每一个算法封装起来，并使它们可以互换使用。策略模]]></description>
 </item>
 </channel>
 </rss>
