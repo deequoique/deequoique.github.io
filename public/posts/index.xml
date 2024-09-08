@@ -4,13 +4,37 @@
         <link>http://localhost:1313/posts/</link>
         <description>All Posts | Deequoique&#39;s 赛博小屋</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>javawangtl@163.com (Deequoique)</managingEditor>
-            <webMaster>javawangtl@163.com (Deequoique)</webMaster><lastBuildDate>Tue, 13 Aug 2024 10:30:43 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>javawangtl@163.com (Deequoique)</webMaster><lastBuildDate>Mon, 02 Sep 2024 11:16:36 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>9月考研记录w1</title>
+    <link>http://localhost:1313/9%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w1/</link>
+    <pubDate>Mon, 02 Sep 2024 11:16:36 &#43;0800</pubDate>
+    <author>Deequoique</author>
+    <guid>http://localhost:1313/9%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w1/</guid>
+    <description><![CDATA[周计划 线性代数基础一 线性代数基础二 高数660题 前50 英语09 英语10 操作系统chapter2（不包括习题） 9/2 MON 计划与进度 线性代数 第一章（1）]]></description>
+</item>
+<item>
+    <title>8月考研记录w5</title>
+    <link>http://localhost:1313/8%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w5/</link>
+    <pubDate>Mon, 26 Aug 2024 16:21:48 &#43;0800</pubDate>
+    <author>Deequoique</author>
+    <guid>http://localhost:1313/8%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w5/</guid>
+    <description><![CDATA[周计划 高数18讲 英语09 操作系统chapter1 操作系统chapter2 8/27 TUS 计划与进度 高数 第一型曲面积分 第二型曲线积分 英语 阅读<sup>0</sup>/<sub>2</sub>]]></description>
+</item>
+<item>
+    <title>8月考研记录w4</title>
+    <link>http://localhost:1313/8%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w4/</link>
+    <pubDate>Tue, 20 Aug 2024 14:51:07 &#43;0800</pubDate>
+    <author>Deequoique</author>
+    <guid>http://localhost:1313/8%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w4/</guid>
+    <description><![CDATA[周计划 高数18讲 英语07 英语08 操作系统chapter1 8/20 TUS 计划与进度 高数 三重积分概念性质对称性 英语 阅读<sup>1</sup>/<sub>2</sub> 单词[130]/[10]]></description>
+</item>
+<item>
     <title>8月考研记录w3</title>
     <link>http://localhost:1313/8%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w3/</link>
     <pubDate>Tue, 13 Aug 2024 10:30:43 &#43;0800</pubDate>
     <author>Deequoique</author>
     <guid>http://localhost:1313/8%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w3/</guid>
-    <description><![CDATA[周计划 高数17讲、18讲三重积分 计组over 8/13 TUS 计划与进度 高数]]></description>
+    <description><![CDATA[周计划 高数17讲 高数18讲三重积分 计组6 计组7 英语06 英语07 8/13 TUS 计划与进度 高数 17讲 向量代数 空间平面与直线 计组 bok6 英语 阅读<sup>0</sup>/<sub>2</sub> 单词]]></description>
 </item>
 <item>
     <title>8月考研记录w2</title>
@@ -59,30 +83,6 @@
     <author>Deequoique</author>
     <guid>http://localhost:1313/7%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w1/</guid>
     <description><![CDATA[7/1 MON awake:9.5am asleep:12am 计划与进度 高数 chapter 11 积分等式 积分不等式 计组 chapter2 运算方法和运算电路 浮点数的表示与运算 英语 单词<sup>130</sup>/<sub>100</sub> 总结 王道计组是依托答辩来]]></description>
-</item>
-<item>
-    <title>6月考研记录w4</title>
-    <link>http://localhost:1313/6%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w4/</link>
-    <pubDate>Tue, 25 Jun 2024 19:45:04 &#43;0800</pubDate>
-    <author>Deequoique</author>
-    <guid>http://localhost:1313/6%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w4/</guid>
-    <description><![CDATA[6/25 TUS awake:9.5am asleep:1.5am 计划与进度 数据结构 chapter8 排序 归并排序、基数排序和计数排序 各种内部排序算法的比较及应用 外部排序 英语 单词<sup>110</sup>/<sub>110</sub> 总结 昨天痛经，]]></description>
-</item>
-<item>
-    <title>6月考研记录w3</title>
-    <link>http://localhost:1313/6%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w3/</link>
-    <pubDate>Mon, 17 Jun 2024 09:29:48 &#43;0800</pubDate>
-    <author>Deequoique</author>
-    <guid>http://localhost:1313/6%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w3/</guid>
-    <description><![CDATA[6/17 MON awake：9am asleep：1.5am 计划与进度 高数 chapter8 变限积分 反常积分 习题 数据结构 chapter7 查找 基本概念 顺序查找和折半查找 树形查找 英语 单词[]]></description>
-</item>
-<item>
-    <title>6月考研记录w2</title>
-    <link>http://localhost:1313/6%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w2/</link>
-    <pubDate>Wed, 12 Jun 2024 16:35:57 &#43;0800</pubDate>
-    <author>Deequoique</author>
-    <guid>http://localhost:1313/6%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w2/</guid>
-    <description><![CDATA[6/12 WES awake：9am asleep：1.5am 计划与进度 高数 chapter6 微分等式 微分不等式 数据结构 图的遍历 图的应用 英语 单词<sup>20</sup>/<sub>100</sub> 6/13 THU awake: 9.5am]]></description>
 </item>
 </channel>
 </rss>
