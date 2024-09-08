@@ -189,7 +189,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       #  主页显示的网站标题 (支持 HTML 格式)
       title = "Deequoique's 赛博小屋"
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "🍟喜欢您来<br>💻JAVA/web3/Godot<br>❤️‍🔥类型学/民哲思辨<br>🎮pc/switch🎲coc<br>㊙️独游摸鱼开发者<br>考研进行时，想看考研流水日记请点击【分类】"
+      subtitle = "🍟喜欢您来<br>💻JAVA/web3/Godot<br>❤️‍🔥类型学/民哲/电吉他<br>🎮pc/switch🎲coc<br>㊙️独游摸鱼开发者<br>考研er，流水账见【分类/考研日记】"
       # 是否为副标题显示打字机动画
       typeit = true
       # 是否显示社交账号
