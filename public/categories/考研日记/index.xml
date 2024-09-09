@@ -4,13 +4,21 @@
         <link>http://localhost:1313/categories/%E8%80%83%E7%A0%94%E6%97%A5%E8%AE%B0/</link>
         <description>考研日记 - Category - Deequoique&#39;s 赛博小屋</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>javawangtl@163.com (Deequoique)</managingEditor>
-            <webMaster>javawangtl@163.com (Deequoique)</webMaster><lastBuildDate>Mon, 02 Sep 2024 11:16:36 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E8%80%83%E7%A0%94%E6%97%A5%E8%AE%B0/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>javawangtl@163.com (Deequoique)</webMaster><lastBuildDate>Sun, 08 Sep 2024 22:19:41 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E8%80%83%E7%A0%94%E6%97%A5%E8%AE%B0/" rel="self" type="application/rss+xml" /><item>
+    <title>9月考研记录w2</title>
+    <link>http://localhost:1313/9%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w2/</link>
+    <pubDate>Sun, 08 Sep 2024 22:19:41 &#43;0800</pubDate>
+    <author>Deequoique</author>
+    <guid>http://localhost:1313/9%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w2/</guid>
+    <description><![CDATA[周计划 线性代数基础三 线性代数基础四第一节 高数660题 <sup>20</sup>/<sub>100</sub> 英语10 英语11 操作系统chapter2（包括习题） 马原<sup>2</sup>/<sub>10</sub> 9/9 MON 已完成 英语]]></description>
+</item>
+<item>
     <title>9月考研记录w1</title>
     <link>http://localhost:1313/9%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w1/</link>
     <pubDate>Mon, 02 Sep 2024 11:16:36 &#43;0800</pubDate>
     <author>Deequoique</author>
     <guid>http://localhost:1313/9%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w1/</guid>
-    <description><![CDATA[周计划 线性代数基础一 线性代数基础二 高数660题 前50 英语09 英语10 操作系统chapter2（不包括习题） 9/2 MON 计划与进度 线性代数 第一章（1）]]></description>
+    <description><![CDATA[周计划 线性代数基础一 线性代数基础二 高数660题 <sup>20</sup>/<sub>50</sub> 英语09 英语10 操作系统chapter2（不包括习题） 9/2 MON 计划与进度 线性代数 第一章（1） 英语]]></description>
 </item>
 <item>
     <title>8月考研记录w5</title>
@@ -75,14 +83,6 @@
     <author>Deequoique</author>
     <guid>http://localhost:1313/7%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w2/</guid>
     <description><![CDATA[7/8 MON awake:8.5am asleep:12am 计划与进度 高数 chapter 13 多元函数的极值与最值 计组 chapter2.3视频看完 chapter2题做完 英语 单词<sup>130</sup>/<sub>100</sub> 阅读 总结 今]]></description>
-</item>
-<item>
-    <title>7月考研记录w1</title>
-    <link>http://localhost:1313/7%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w1/</link>
-    <pubDate>Tue, 02 Jul 2024 10:48:58 &#43;0800</pubDate>
-    <author>Deequoique</author>
-    <guid>http://localhost:1313/7%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w1/</guid>
-    <description><![CDATA[7/1 MON awake:9.5am asleep:12am 计划与进度 高数 chapter 11 积分等式 积分不等式 计组 chapter2 运算方法和运算电路 浮点数的表示与运算 英语 单词<sup>130</sup>/<sub>100</sub> 总结 王道计组是依托答辩来]]></description>
 </item>
 </channel>
 </rss>

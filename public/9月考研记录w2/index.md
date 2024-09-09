@@ -1,12 +1,5 @@
-+++
-title = '9月考研记录w2'
-date = 2024-09-08T22:19:41+08:00
-draft = false
-author = "Deequoique"
-hiddenFromHomePage = false
-categories = ["考研日记"]
-tags = []
-+++
+# 9月考研记录w2
+
 {{< admonition type=abstract title="周计划" open=false >}}
 - [ ]线性代数基础三
 - [ ]线性代数基础四第一节
