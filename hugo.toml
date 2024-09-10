@@ -97,9 +97,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     #  页面头部导航栏标题配置
     [params.header.title]
       # LOGO 的 URL
-      logo = "/logo.png"
+      logo = ""
       # 标题名称
-      name = "Deequoique's 赛博小屋"
+      name = "🍟喜欢您来"
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
@@ -192,7 +192,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # 主页显示头像的 URL
       avatarURL = "/logo.png"
       #  主页显示的网站标题 (支持 HTML 格式)
-      title = "🍟喜欢您来"
+      title = "Deequoique's 赛博小屋"
       # 主页显示的网站副标题 (允许 HTML 格式)
       subtitle = "💻JAVA/web3/Godot\n❤️‍🔥类型学/民哲/电吉他\n🎮pc/switch🎲coc\n㊙️独游摸鱼开发者\n🖊考研er，流水账见【分类/考研日记】"
       # 是否为副标题显示打字机动画
