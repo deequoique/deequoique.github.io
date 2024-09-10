@@ -36,22 +36,6 @@
     background: white;
 	opacity: .95;
 }
-.footer {
-    display: block;
-    border-top-width: 3px;
-    border-top-style: solid;
-    border-top-color: #6670ab;
-    position: relative;
-    z-index: -1;
-    max-width: 800px;
-    width: 60%;
-    margin: 0.1rem auto 0 auto;
-    padding-left: 1rem;
-    padding-right: 1rem;
-    background: white;
-    opacity: 0.95;
-}
-
 
 [data-theme='dark'] .footer {
     background: #3a3535;
