@@ -138,13 +138,14 @@
 #header-desktop .header-wrapper .menu .menu-item {
     margin: 0 .3rem;
 }
+
 .menu .menu-item i {
     margin-right: 2px;
 }
 /* 媒体查询，针对小屏幕调整样式 */
 @media (max-width: 768px) {
     .footer {
-        width: 100%; /* 在小屏幕上宽度调整为100% */
+        width: 90%; /* 在小屏幕上宽度调整为100% */
         padding-left: 1rem; /* 减少内边距 */
         padding-right: 1rem;
         margin: 0.5rem auto; /* 简化外边距设置 */
