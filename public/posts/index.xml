@@ -5,6 +5,14 @@
         <description>All Posts | Deequoique&#39;s 赛博小屋</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>javawangtl@163.com (Deequoique)</managingEditor>
             <webMaster>javawangtl@163.com (Deequoique)</webMaster><lastBuildDate>Tue, 10 Sep 2024 12:33:00 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Hugo博客loveit主题升级与适配的碎碎念</title>
+    <link>http://localhost:1313/hugo%E5%8D%9A%E5%AE%A2%E5%8D%87%E7%BA%A7%E4%B8%8E%E9%80%82%E9%85%8D%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/</link>
+    <pubDate>Tue, 10 Sep 2024 12:33:00 &#43;0800</pubDate>
+    <author>Deequoique</author>
+    <guid>http://localhost:1313/hugo%E5%8D%9A%E5%AE%A2%E5%8D%87%E7%BA%A7%E4%B8%8E%E9%80%82%E9%85%8D%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/</guid>
+    <description><![CDATA[懒狗终于做了博客移动端适配，可喜可贺。]]></description>
+</item>
+<item>
     <title>9月考研记录w2</title>
     <link>http://localhost:1313/9%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w2/</link>
     <pubDate>Sun, 08 Sep 2024 22:19:41 &#43;0800</pubDate>
@@ -75,14 +83,6 @@
     <author>Deequoique</author>
     <guid>http://localhost:1313/7%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w3/</guid>
     <description><![CDATA[7/15 MON awake:10.5am asleep: 计划与进度 高数 chapter 15 一阶微分方程的求解<sup>0</sup>/<sub>3</sub> 计组 视频3.3 视频3.4 英语 单词<sup>130</sup>/<sub>100</sub> 阅读 7/17 WES awake:9.5am asleep:12am 计划与进度 高数 1]]></description>
-</item>
-<item>
-    <title>7月考研记录w2</title>
-    <link>http://localhost:1313/7%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w2/</link>
-    <pubDate>Mon, 08 Jul 2024 10:27:25 &#43;0800</pubDate>
-    <author>Deequoique</author>
-    <guid>http://localhost:1313/7%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w2/</guid>
-    <description><![CDATA[7/8 MON awake:8.5am asleep:12am 计划与进度 高数 chapter 13 多元函数的极值与最值 计组 chapter2.3视频看完 chapter2题做完 英语 单词<sup>130</sup>/<sub>100</sub> 阅读 总结 今]]></description>
 </item>
 </channel>
 </rss>

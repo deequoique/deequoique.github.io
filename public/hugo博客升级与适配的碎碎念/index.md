@@ -1,13 +1,5 @@
-+++
-title = 'Hugo博客loveit主题升级与适配的碎碎念'
-date = 2024-09-10T12:33:00+08:00
-draft = false
-author = "Deequoique"
-hiddenFromHomePage = false
-categories = ["码农日记"]
-summary = "懒狗终于做了博客移动端适配，可喜可贺。"
-tags = []
-+++
+# Hugo博客loveit主题升级与适配的碎碎念
+
 
 先说结论：**我终于做了博客移动端适配啦**
 
