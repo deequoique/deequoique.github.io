@@ -36,6 +36,42 @@
     background: white;
 	opacity: .95;
 }
+.footer {
+    display: block;
+    border-top-width: 3px;
+    border-top-style: solid;
+    border-top-color: #6670ab;
+    position: relative;
+    z-index: -1;
+    max-width: 800px;
+    width: 60%;
+    margin: 0.1rem auto 0 auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background: white;
+    opacity: 0.95;
+}
+
+/* 媒体查询，针对小屏幕调整样式 */
+@media (max-width: 768px) {
+    .footer {
+        width: 100%; /* 在小屏幕上宽度调整为100% */
+        padding-left: 0.5rem; /* 减少内边距 */
+        padding-right: 0.5rem;
+        margin: 0.1rem auto; /* 简化外边距设置 */
+        border-top-width: 2px; /* 减少边框宽度 */
+    }
+    .page.archive, .page.single, .page.single.special {
+        padding-left: 10vw; /* 使用视口宽度单位 */
+        padding-right: 10vw;
+        padding-bottom: 1rem;
+        background: rgb(255, 255, 255);
+        opacity: 1;
+        max-width: 100%;
+        width: auto;
+    }
+}
+
 [theme=dark] .footer {
     background: #3a3535;
 }
