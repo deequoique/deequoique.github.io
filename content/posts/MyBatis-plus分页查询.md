@@ -5,6 +5,7 @@ draft = false
 author = "Deequoique"
 categories = ["码农日记"]
 tags = ["JAVA"]
+summary = "互联网十分常用的一套方法，为了方便之后照搬整理一下。"
 +++
 ### 1. 引入MyBatis- plus依赖
 ### 2. 配置分页插件

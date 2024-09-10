@@ -1,9 +1,9 @@
 # JVM初学（一）
 
 
-首先上一个经典JVM图，来自[guide哥](https://javaguide.cn/java/jvm/memory-area.html)
+首先上一个经典JVM图，来自[JavaGuide](https://javaguide.cn/java/jvm/memory-area.html)
 
-<img src="/image/jvm.png" width = 80%>
+&lt;img src=&#34;/image/jvm.png&#34; width = 80%&gt;
 
 这一堆东西看的脑壳疼很久了。。。。
 
@@ -15,7 +15,7 @@
 
 ### 虚拟机栈
 
-<img src="/image/vstack.png" width = 30%>
+&lt;img src=&#34;/image/vstack.png&#34; width = 30%&gt;
 
 由栈帧构成，里面存了操作数，返回地址，局部变量（也就是方法调用能用到的一切东西）。当方法创建时栈帧压入，销毁（return）时，栈帧弹出。
 
@@ -27,7 +27,7 @@
 
 主要服务一个方法需要调用其他方法的场景。在 Java 源文件被编译成字节码文件时，所有的变量和方法引用都作为符号引用（Symbilic Reference）保存在 Class 文件的常量池里。当一个方法要调用其他方法，需要将常量池中指向方法的符号引用转化为其在内存地址中的直接引用。动态链接的作用就是为了将符号引用转换为调用方法的直接引用。
 
-<img src="/image/jvmlink.png" width="80%">
+&lt;img src=&#34;/image/jvmlink.png&#34; width=&#34;80%&#34;&gt;
 
 #### StackOverFlowError
 
@@ -64,7 +64,7 @@
 Java的垃圾回收机制感觉和那个操作系统的时间片轮转异曲同工吧，就是到年龄了就回收
 
 还是看一下1.8前后的变化:
-<img src="/image/jdk8.png" width="80%">
+&lt;img src=&#34;/image/jdk8.png&#34; width=&#34;80%&#34;&gt;
 
 1. 新生代内存(Young Generation)
     
@@ -106,7 +106,7 @@ Java的垃圾回收机制感觉和那个操作系统的时间片轮转异曲同�
 
 为什么是死缓（被弃用了就是）
 
-<img src="/image/1.1.png" width="80%">
+&lt;img src=&#34;/image/1.1.png&#34; width=&#34;80%&#34;&gt;
 
 ### 堆的OOM
 
@@ -117,3 +117,9 @@ Java的垃圾回收机制感觉和那个操作系统的时间片轮转异曲同�
 2. **java.lang.OutOfMemoryError: Java** **heap** **space** :假如在创建新的对象时, 堆内存中的空间不足以存放新创建的对象, 就会引发此错误。(和配置的最大堆内存有关，且受制于物理内存大小。最大堆内存可通过-Xmx参数配置，若没有特别配置，将会使用默认值，详见：[Default Java 8 max heap sizeopen in new window](https://stackoverflow.com/questions/28272923/default-xmxsize-in-java-8-max-heap-size))
     
 3. ......
+
+---
+
+> Author: Deequoique  
+> URL: http://localhost:1313/jvm%E5%88%9D%E5%AD%A6%E4%B8%80/  
+

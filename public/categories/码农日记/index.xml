@@ -1,48 +1,52 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>码农日记 - Category - Deequoique&#39;s 赛博小屋</title>
-        <link>http://localhost:1313/categories/%E7%A0%81%E5%86%9C%E6%97%A5%E8%AE%B0/</link>
-        <description>码农日记 - Category - Deequoique&#39;s 赛博小屋</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>javawangtl@163.com (Deequoique)</managingEditor>
-            <webMaster>javawangtl@163.com (Deequoique)</webMaster><lastBuildDate>Tue, 10 Sep 2024 12:33:00 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E7%A0%81%E5%86%9C%E6%97%A5%E8%AE%B0/" rel="self" type="application/rss+xml" /><item>
-    <title>Hugo博客loveit主题升级与适配的碎碎念</title>
-    <link>http://localhost:1313/hugo%E5%8D%9A%E5%AE%A2%E5%8D%87%E7%BA%A7%E4%B8%8E%E9%80%82%E9%85%8D%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/</link>
-    <pubDate>Tue, 10 Sep 2024 12:33:00 &#43;0800</pubDate>
-    <author>Deequoique</author>
-    <guid>http://localhost:1313/hugo%E5%8D%9A%E5%AE%A2%E5%8D%87%E7%BA%A7%E4%B8%8E%E9%80%82%E9%85%8D%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/</guid>
-    <description><![CDATA[懒狗终于做了博客移动端适配，可喜可贺。]]></description>
-</item>
-<item>
-    <title>Spring框架中优雅地使用策略模式</title>
-    <link>http://localhost:1313/spring%E6%A1%86%E6%9E%B6%E4%B8%AD%E4%BC%98%E9%9B%85%E5%9C%B0%E4%BD%BF%E7%94%A8%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F/</link>
-    <pubDate>Sat, 20 Jan 2024 23:19:19 &#43;0800</pubDate>
-    <author>Deequoique</author>
-    <guid>http://localhost:1313/spring%E6%A1%86%E6%9E%B6%E4%B8%AD%E4%BC%98%E9%9B%85%E5%9C%B0%E4%BD%BF%E7%94%A8%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F/</guid>
-    <description><![CDATA[策略模式（Strategy Pattern）是一种行为设计模式，它使你能够定义一系列的算法，将每一个算法封装起来，并使它们可以互换使用。策略模]]></description>
-</item>
-<item>
-    <title>Elastic Search（ES）Springboot 小白教程</title>
-    <link>http://localhost:1313/elastic-searchesspringboot-%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B/</link>
-    <pubDate>Mon, 08 Jan 2024 15:51:48 &#43;0800</pubDate>
-    <author>Deequoique</author>
-    <guid>http://localhost:1313/elastic-searchesspringboot-%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B/</guid>
-    <description><![CDATA[Elasticsearch 是一个开源的、高度可扩展的、全文搜索和分析引擎，它能够快速、近实时地存储、搜索和分析大量数据。Elasticsearch 常用于日志和事件数]]></description>
-</item>
-<item>
-    <title>MyBatis Plus分页查询</title>
-    <link>http://localhost:1313/mybatis-plus%E5%88%86%E9%A1%B5%E6%9F%A5%E8%AF%A2/</link>
-    <pubDate>Tue, 02 Jan 2024 18:54:45 &#43;0800</pubDate>
-    <author>Deequoique</author>
-    <guid>http://localhost:1313/mybatis-plus%E5%88%86%E9%A1%B5%E6%9F%A5%E8%AF%A2/</guid>
-    <description><![CDATA[1. 引入MyBatis- plus依赖 2. 配置分页插件 在你的配置类中添加分页插件。MyBatis-Plus 提供了一个分页拦截器 Pagination]]></description>
-</item>
-<item>
-    <title>hugo一键发布个人博客</title>
-    <link>http://localhost:1313/hugo%E4%B8%80%E9%94%AE%E5%8F%91%E5%B8%83%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
-    <pubDate>Thu, 21 Dec 2023 22:20:19 &#43;0800</pubDate>
-    <author>Deequoique</author>
-    <guid>http://localhost:1313/hugo%E4%B8%80%E9%94%AE%E5%8F%91%E5%B8%83%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
-    <description><![CDATA[以vscode为例，在项目根文件夹建立.vscode文件夹，文件夹内创建tasks.json文件，内容如下 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 {]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>码农日记 - Category - Deequoique&#39;s 赛博小屋</title>
+    <link>http://localhost:1313/categories/%E7%A0%81%E5%86%9C%E6%97%A5%E8%AE%B0/</link>
+    <description>Deequoique&#39;s 赛博小屋</description>
+    <generator>Hugo 0.134.1 &amp; FixIt v0.3.11</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 10 Sep 2024 12:33:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E7%A0%81%E5%86%9C%E6%97%A5%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo博客loveit主题升级与适配的碎碎念</title>
+      <link>http://localhost:1313/hugo%E5%8D%9A%E5%AE%A2%E5%8D%87%E7%BA%A7%E4%B8%8E%E9%80%82%E9%85%8D%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/</link>
+      <pubDate>Tue, 10 Sep 2024 12:33:00 +0800</pubDate>
+      <guid>http://localhost:1313/hugo%E5%8D%9A%E5%AE%A2%E5%8D%87%E7%BA%A7%E4%B8%8E%E9%80%82%E9%85%8D%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/</guid>
+      <category domain="http://localhost:1313/categories/%E7%A0%81%E5%86%9C%E6%97%A5%E8%AE%B0/">码农日记</category>
+      <description>懒狗终于做了博客移动端适配，可喜可贺。</description>
+    </item>
+    <item>
+      <title>Spring框架中优雅地使用策略模式</title>
+      <link>http://localhost:1313/spring%E6%A1%86%E6%9E%B6%E4%B8%AD%E4%BC%98%E9%9B%85%E5%9C%B0%E4%BD%BF%E7%94%A8%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F/</link>
+      <pubDate>Sat, 20 Jan 2024 23:19:19 +0800</pubDate>
+      <guid>http://localhost:1313/spring%E6%A1%86%E6%9E%B6%E4%B8%AD%E4%BC%98%E9%9B%85%E5%9C%B0%E4%BD%BF%E7%94%A8%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F/</guid>
+      <category domain="http://localhost:1313/categories/%E7%A0%81%E5%86%9C%E6%97%A5%E8%AE%B0/">码农日记</category>
+      <description>&lt;p&gt;策略模式（Strategy Pattern）是一种行为设计模式，它使你能够定义一系列的算法，将每一个算法封装起来，并使它们可以互换使用。策略模式让算法的变化独立于使用算法的客户。这种模式是一种对象行为模式，用于定义一系列的算法，并将每一个算法封装起来，使它们可以相互替换。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Elastic Search（ES）Springboot 小白教程</title>
+      <link>http://localhost:1313/elastic-searchesspringboot-%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Mon, 08 Jan 2024 15:51:48 +0800</pubDate>
+      <guid>http://localhost:1313/elastic-searchesspringboot-%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B/</guid>
+      <category domain="http://localhost:1313/categories/%E7%A0%81%E5%86%9C%E6%97%A5%E8%AE%B0/">码农日记</category>
+      <description>&lt;p&gt;Elasticsearch 是一个开源的、高度可扩展的、全文搜索和分析引擎，它能够快速、近实时地存储、搜索和分析大量数据。Elasticsearch 常用于日志和事件数据分析、全文搜索、安全智能分析以及业务智能等场景。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MyBatis Plus分页查询</title>
+      <link>http://localhost:1313/mybatis-plus%E5%88%86%E9%A1%B5%E6%9F%A5%E8%AF%A2/</link>
+      <pubDate>Tue, 02 Jan 2024 18:54:45 +0800</pubDate>
+      <guid>http://localhost:1313/mybatis-plus%E5%88%86%E9%A1%B5%E6%9F%A5%E8%AF%A2/</guid>
+      <category domain="http://localhost:1313/categories/%E7%A0%81%E5%86%9C%E6%97%A5%E8%AE%B0/">码农日记</category>
+      <description>互联网十分常用的一套方法，为了方便之后照搬整理一下。</description>
+    </item>
+    <item>
+      <title>hugo一键发布个人博客</title>
+      <link>http://localhost:1313/hugo%E4%B8%80%E9%94%AE%E5%8F%91%E5%B8%83%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Thu, 21 Dec 2023 22:20:19 +0800</pubDate>
+      <guid>http://localhost:1313/hugo%E4%B8%80%E9%94%AE%E5%8F%91%E5%B8%83%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <category domain="http://localhost:1313/categories/%E7%A0%81%E5%86%9C%E6%97%A5%E8%AE%B0/">码农日记</category>
+      <description>&lt;p&gt;以vscode为例，在项目根文件夹建立.vscode文件夹，文件夹内创建&lt;code&gt;tasks.json&lt;/code&gt;文件，内容如下&lt;/p&gt;</description>
+    </item>
+  </channel>
 </rss>

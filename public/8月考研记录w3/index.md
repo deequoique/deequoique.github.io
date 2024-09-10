@@ -1,14 +1,14 @@
 # 8月考研记录w3
 
 
-{{< admonition type=abstract title="周计划" open=false >}}
+{{&lt; admonition type=abstract title=&#34;周计划&#34; open=false &gt;}}
 - [x]高数17讲
 - [ ]高数18讲三重积分
 - [x]计组6
 - [x]计组7
 - [x]英语06
 - [ ]英语07
-{{< /admonition >}}
+{{&lt; /admonition &gt;}}
 
 ## 8/13 TUS
 ### 计划与进度
@@ -65,3 +65,9 @@
 #### 英语
 - [x] 阅读06
 - [x] 单词[130]/[100]
+
+---
+
+> Author: Deequoique  
+> URL: http://localhost:1313/8%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w3/  
+

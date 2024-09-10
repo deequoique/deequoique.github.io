@@ -79,3 +79,9 @@ bok的课
 - [x]5.7
 #### 英语
 - [x]单词[100]/[100]
+
+---
+
+> Author: Deequoique  
+> URL: http://localhost:1313/8%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w2/  
+

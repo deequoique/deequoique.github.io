@@ -1,13 +1,13 @@
 # 9月考研记录w1
 
-{{< admonition type=abstract title="周计划" open=false >}}
+{{&lt; admonition type=abstract title=&#34;周计划&#34; open=false &gt;}}
 - [x]线性代数基础一
 - [x]线性代数基础二
 - [ ]高数660题 [20]/[50]
 - [x]英语09
 - [ ]英语10
 - [ ]操作系统chapter2（不包括习题）
-{{< /admonition >}}
+{{&lt; /admonition &gt;}}
 
 ## 9/2 MON
 ### 计划与进度
@@ -83,3 +83,9 @@
 
 ## 碎碎念
 这周天试了一下滴答清单，属实好用，下周开始考研记录改版了，只列周计划，每天的进度根据实际完成情况记录，标明时间。这样一来可读性比较高。
+
+---
+
+> Author: Deequoique  
+> URL: http://localhost:1313/9%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w1/  
+

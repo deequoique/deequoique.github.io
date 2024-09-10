@@ -7,7 +7,7 @@ categories = ["码农日记"]
 tags = ["JAVA","ES"]
 +++
 Elasticsearch 是一个开源的、高度可扩展的、全文搜索和分析引擎，它能够快速、近实时地存储、搜索和分析大量数据。Elasticsearch 常用于日志和事件数据分析、全文搜索、安全智能分析以及业务智能等场景。
-
+<!--more-->
 ## 1. 添加依赖
 maven:
 ``` xml

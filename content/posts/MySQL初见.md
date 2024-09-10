@@ -5,6 +5,7 @@ draft = false
 author = "Deequoique"
 categories = ["八股文"]
 tags = ["DB"]
+summary = "本科时期初次正儿八经地去用MySQL时整理的资料，框架型知识点。"
 +++
 # 架构
 

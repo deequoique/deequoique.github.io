@@ -123,3 +123,9 @@ chapter2
 虽然今天几乎啥也没干。
 
 但是刘姐的事解决了。
+
+---
+
+> Author: Deequoique  
+> URL: http://localhost:1313/6%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w4/  
+

@@ -1,18 +1,18 @@
 # Elastic Search（ES）Springboot 小白教程
 
 Elasticsearch 是一个开源的、高度可扩展的、全文搜索和分析引擎，它能够快速、近实时地存储、搜索和分析大量数据。Elasticsearch 常用于日志和事件数据分析、全文搜索、安全智能分析以及业务智能等场景。
-
+&lt;!--more--&gt;
 ## 1. 添加依赖
 maven:
 ``` xml
-<dependencies>
-    <!-- Spring Data Elasticsearch -->
-    <dependency>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-data-elasticsearch</artifactId>
-    </dependency>
-    <!-- Other dependencies -->
-</dependencies>
+&lt;dependencies&gt;
+    &lt;!-- Spring Data Elasticsearch --&gt;
+    &lt;dependency&gt;
+        &lt;groupId&gt;org.springframework.boot&lt;/groupId&gt;
+        &lt;artifactId&gt;spring-boot-starter-data-elasticsearch&lt;/artifactId&gt;
+    &lt;/dependency&gt;
+    &lt;!-- Other dependencies --&gt;
+&lt;/dependencies&gt;
 ```
 
 ## 2. 配置连接信息
@@ -32,7 +32,7 @@ spring.elasticsearch.rest.password=pass # 如果需要的话
 import org.springframework.data.annotation.Id;
 import org.springframework.data.elasticsearch.annotations.Document;
 
-@Document(indexName = "blog", type = "article")
+@Document(indexName = &#34;blog&#34;, type = &#34;article&#34;)
 public class ESIdeaPO {
     @Id
     private String address;
@@ -49,7 +49,7 @@ public class ESIdeaPO {
 ``` java
 import org.springframework.data.elasticsearch.repository.ElasticsearchRepository;
 
-public interface ArticleRepository extends ElasticsearchRepository<ESIdeaPO, String> {
+public interface ArticleRepository extends ElasticsearchRepository&lt;ESIdeaPO, String&gt; {
     // 可以添加自定义的查询方法
 }
 
@@ -72,7 +72,7 @@ public class ArticleService {
         articleRepository.save(article);
     }
 
-    public Iterable<Article> findByTitle(String title) {
+    public Iterable&lt;Article&gt; findByTitle(String title) {
         return articleRepository.findByTitle(title);
     }
 
@@ -82,3 +82,9 @@ public class ArticleService {
 ```
 # 总结
 在`SpringBoot`的加持下，使用感和各种数据库大差不差。初步了解像是那种可以专门用来搜索，且不用担心效率和索引的数据库。
+
+---
+
+> Author: Deequoique  
+> URL: http://localhost:1313/elastic-searchesspringboot-%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B/  
+

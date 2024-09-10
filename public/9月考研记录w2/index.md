@@ -1,6 +1,6 @@
 # 9月考研记录w2
 
-{{< admonition type=abstract title="周计划" open=false >}}
+{{&lt; admonition type=abstract title=&#34;周计划&#34; open=false &gt;}}
 - [ ]线性代数基础三
 - [ ]线性代数基础四第一节
 - [ ]高数660题 [20]/[100]
@@ -8,8 +8,8 @@
 - [ ]英语11
 - [ ]操作系统chapter2（包括习题）
 - [ ]马原[2]/[10]
-{{< /admonition >}}
-
+{{&lt; /admonition &gt;}}
+&lt;!--more--&gt;
 ## 9/9 MON
 ### 已完成
 - 英语单词100 
@@ -23,3 +23,9 @@
 马原是吃饭时听的，非常滴下饭。英语单词睡前背。
 
 滴答清单真的很好用。
+
+---
+
+> Author: Deequoique  
+> URL: http://localhost:1313/9%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w2/  
+

@@ -91,3 +91,9 @@ chapter 15
 #### 英语
 - [x]单词[130]/[100] 
 - [ ]阅读
+
+---
+
+> Author: Deequoique  
+> URL: http://localhost:1313/7%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w2/  
+

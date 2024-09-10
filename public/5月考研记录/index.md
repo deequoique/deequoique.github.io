@@ -19,7 +19,7 @@ asleep：2am
 ## 杂谈
 今天梁老板农历生日，弄了个长得还可以的蛋糕嘿嘿
 
-<img src="/day/cake.jpg" width = 70%>
+&lt;img src=&#34;/day/cake.jpg&#34; width = 70%&gt;
 
 中午看到圆律发的[逆天视频](https://www.bilibili.com/video/BV1nr42177ve?spm_id_from=333.880.my_history.page.click)，和zyj讨论，遂被安利了调研incel群体的视频，还是蛮感慨的，毕竟很难看到这样的角度去讨论性别问题。之后在阿b和小红书上分别看了看评论区的气氛，还有他们吵架的内容。信息茧房和用户群体可见一斑……
 
@@ -104,8 +104,14 @@ asleep：2am
 
 数据结构要被线索树折磨死了。。。。我恨二叉树，，，43道题硬控我一晚上。
 
-<p align="center">
-<img src="/day/5.31.jpg" title="天地良心喵，学数据结构时间比高数还要长" width = 40%>
+&lt;p align=&#34;center&#34;&gt;
+&lt;img src=&#34;/day/5.31.jpg&#34; title=&#34;天地良心喵，学数据结构时间比高数还要长&#34; width = 40%&gt;
 
 天地良心喵，学数据结构时间比高数还要长
-</p>
+&lt;/p&gt;
+
+---
+
+> Author: Deequoique  
+> URL: http://localhost:1313/5%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95/  
+

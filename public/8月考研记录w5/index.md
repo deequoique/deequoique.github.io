@@ -1,11 +1,11 @@
 # 8月考研记录w5
 
-{{< admonition type=abstract title="周计划" open=false >}}
+{{&lt; admonition type=abstract title=&#34;周计划&#34; open=false &gt;}}
 - [x]高数18讲
 - [ ]英语09
 - [x]操作系统chapter1
 - [ ]操作系统chapter2
-{{< /admonition >}}
+{{&lt; /admonition &gt;}}
 
 ## 8/27 TUS
 ### 计划与进度
@@ -44,3 +44,9 @@
 #### 英语
 - [x] 阅读[2]/[2] 
 - [x] 单词[100]/[100]
+
+---
+
+> Author: Deequoique  
+> URL: http://localhost:1313/8%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w5/  
+

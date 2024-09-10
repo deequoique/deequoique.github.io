@@ -37,11 +37,11 @@ MVCC（多版本并发控制） 或锁机制来保证
 
 ## 事务的几个状态
 
-<img src="/image/3.1.png" width = 100%>
+&lt;img src=&#34;/image/3.1.png&#34; width = 100%&gt;
 
 ## 脏读、幻读、不可重复读
 
-<img src="/image/3.2.png" width = 60%>
+&lt;img src=&#34;/image/3.2.png&#34; width = 60%&gt;
 
 ### 脏读
 
@@ -73,7 +73,7 @@ MVCC（多版本并发控制） 或锁机制来保证
     
 - 串行化（_serializable_ ）；会对记录加上读写锁，在多个事务对这条记录进行读写操作时，如果发生了读写冲突的时候，后访问的事务必须等前一个事务执行完成，才能继续执行；
     
-<img src="/image/3.3.png" width = 100%>
+&lt;img src=&#34;/image/3.3.png&#34; width = 100%&gt;
 
 ## MVCC
 
@@ -83,12 +83,12 @@ InnoDB的MVCC，是通过在每行记录后面保存两个隐藏的列来实现�
 
 可以理解为数据库中某一个时刻所有未提交事务的快照。
 
-<img src="/image/3.4.png" width = 100%>
+&lt;img src=&#34;/image/3.4.png&#34; width = 100%&gt;
 
 
 ### undo日志(索引记录的隐藏列)
 
-<img src="/image/3.5.png" width = 100%>
+&lt;img src=&#34;/image/3.5.png&#34; width = 100%&gt;
 
 
 ### 事务访问记录时
@@ -119,3 +119,9 @@ InnoDB的MVCC，是通过在每行记录后面保存两个隐藏的列来实现�
 ### 读提交
 
 读提交隔离级别是在每次读取数据时，都会生成一个新的 Read View。
+
+---
+
+> Author: Deequoique  
+> URL: http://localhost:1313/mysql%E4%BA%8B%E5%8A%A1/  
+

@@ -7,7 +7,7 @@ categories = ["码农日记"]
 tags = []
 +++
  以vscode为例，在项目根文件夹建立.vscode文件夹，文件夹内创建`tasks.json`文件，内容如下
-
+<!--more-->
 ``` json
 {
     "label": "Publish Blog",

@@ -5,7 +5,7 @@
 	opacity: .85;
     color: #ffffff;
 }
-[theme=dark] .home-profile {
+[data-theme='dark'] .home-profile {
     background: #3a3535;
 	opacity: .8;
 }
@@ -18,7 +18,7 @@
     background: white;
 	opacity: .95;
 }
-[theme=dark] .summary {
+[data-theme='dark'] .summary {
     background: #3a3535;
 }
 .footer {
@@ -53,7 +53,7 @@
 }
 
 
-[theme=dark] .footer {
+[data-theme='dark'] .footer {
     background: #3a3535;
 }
 /* 目录 */
@@ -61,10 +61,10 @@
     background: white;
 	opacity: .95;
 }
-[theme=dark] .toc {
+[data-theme='dark'] .toc {
     background: #3a3535;
 }
-[theme=dark] #toc-auto {
+[data-theme='dark'] #toc-auto {
     border-left-color: #6f6a6a;
 }
 
@@ -86,9 +86,9 @@
     background: rgb(255, 255, 255);	
 	opacity: .95;
 }
-[theme=dark] .page.archive,
-[theme=dark] .page.single,
-[theme=dark] .page.single.special {
+[data-theme='dark'] .page.archive,
+[data-theme='dark'] .page.single,
+[data-theme='dark'] .page.single.special {
     background: #3a3535;
 }
 
@@ -96,7 +96,7 @@
     color: #a9a9b3;
 }
 
-[theme=dark] .archive .archive-item-date {
+[data-theme='dark'] .archive .archive-item-date {
     color: #a9a9b3;
 }
 
@@ -120,7 +120,7 @@
 	font-weight: initial;
 }
 
-[theme=dark] .archive .tag-cloud-tags a sup {
+[data-theme='dark'] .archive .tag-cloud-tags a sup {
     color: #a9a9b3;
 }
 
