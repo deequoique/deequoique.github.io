@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 
 # 更改使用 Hugo 构建网站时使用的默认主题
-theme = "LoveIt"
+theme = "FixIt"
 
 # 网站标题
 title = "Deequoique's 赛博小屋"
@@ -66,6 +66,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     url = "/categories/"
     title = ""
 
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.132.0"
+
 [params]
   # 网站默认主题样式 ["auto", "light", "dark"]
   defaultTheme = "auto"
@@ -77,24 +82,24 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   #  日期格式
   dateFormat = "2006-01-02"
   # 网站标题, 用于 Open Graph 和 Twitter Cards
-  title = "宇宙星星档案馆"
+  title = "Deequoique's 赛博小屋"
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
-  description = "宇宙星星档案馆"
+  description = "Deequoique's 赛博小屋"
   # 网站图片, 用于 Open Graph 和 Twitter Cards
   images = ["/logo.png"]
 
   # 页面头部导航栏配置
   [params.header]
     # 桌面端导航栏模式 ["fixed", "normal", "auto"]
-    desktopMode = "fixed"
+    desktopMode = "sticky"
     # 移动端导航栏模式 ["fixed", "normal", "auto"]
     mobileMode = "auto"
     #  页面头部导航栏标题配置
     [params.header.title]
       # LOGO 的 URL
-      logo = ""
+      logo = "/logo.png"
       # 标题名称
-      name = ""
+      name = "Deequoique's 赛博小屋"
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
@@ -187,9 +192,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # 主页显示头像的 URL
       avatarURL = "/logo.png"
       #  主页显示的网站标题 (支持 HTML 格式)
-      title = "Deequoique's 赛博小屋"
+      title = "🍟喜欢您来"
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "🍟喜欢您来<br>💻JAVA/web3/Godot<br>❤️‍🔥类型学/民哲/电吉他<br>🎮pc/switch🎲coc<br>㊙️独游摸鱼开发者<br>考研er，流水账见【分类/考研日记】"
+      subtitle = "💻JAVA/web3/Godot\n❤️‍🔥类型学/民哲/电吉他\n🎮pc/switch🎲coc\n㊙️独游摸鱼开发者\n🖊考研er，流水账见【分类/考研日记】"
       # 是否为副标题显示打字机动画
       typeit = true
       # 是否显示社交账号
@@ -467,7 +472,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # 位于 "themes/LoveIt/assets/data/cdn/" 目录
     # 可以在你的项目下相同路径存放你自己的数据文件:
     # "assets/data/cdn/"
-    data = ""
+    data = "jquery.yml"
 
   #  兼容性设置
   [params.compatibility]
@@ -478,32 +483,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 # Hugo 解析文档的配置
 [markup]
-  # 语法高亮设置
   [markup.highlight]
     codeFences = true
-    guessSyntax = true
     lineNos = true
     lineNumbersInTable = true
-    # false 是必要的设置
-    # (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
-  # Goldmark 是 Hugo 0.60 以来的默认 Markdown 解析库
-  [markup.goldmark]
-    [markup.goldmark.extensions]
-      definitionList = true
-      footnote = true
-      linkify = true
-      strikethrough = true
-      table = true
-      taskList = true
-      typographer = true
-    [markup.goldmark.renderer]
-      # 是否在文档中直接使用 HTML 标签
-      unsafe = true
-  # 目录设置
-  [markup.tableOfContents]
-    startLevel = 2
-    endLevel = 6
 
 # 网站地图配置
 [sitemap]
@@ -539,9 +523,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 # 用于 Hugo 输出文档的设置
 [outputs]
-  # 
-  home = ["HTML", "RSS", "JSON"]
-  page = ["HTML", "MarkDown"]
-  section = ["HTML", "RSS"]
-  taxonomy = ["HTML", "RSS"]
-  taxonomyTerm = ["HTML"]
+  home = ["html", "rss", "archives", "offline", "search"]
+  page = ["html", "markdown"]
+  section = ["html", "rss"]
+  taxonomy = ["html"]
+  term = ["html", "rss"]

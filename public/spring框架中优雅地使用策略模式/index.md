@@ -25,15 +25,15 @@ import java.util.concurrent.ConcurrentHashMap;
 @Component  
 @Slf4j  
 public class HomePageManager {  
-    private static Map<String, HomePageStrategy> map = new ConcurrentHashMap<>();  
+    private static Map&lt;String, HomePageStrategy&gt; map = new ConcurrentHashMap&lt;&gt;();  
 
     public static void register(String mark, HomePageStrategy strategy) {  
         map.put(mark, strategy);  
     }  
 
     public static HomePageStrategy matchHandler(String mark) {  
-        if (mark.equals("")) {  
-            log.error("Matching handler failed");  
+        if (mark.equals(&#34;&#34;)) {  
+            log.error(&#34;Matching handler failed&#34;);  
         }  
         return map.get(mark);  
     }  
@@ -51,7 +51,7 @@ import org.reachplatform.idea.controller.entity.es.ESIdeaPO;
 import org.springframework.data.domain.Page;  
 
 public interface HomePageStrategy {  
-    Page<ESIdeaPO> page(String current, String size);  
+    Page&lt;ESIdeaPO&gt; page(String current, String size);  
 }
 ```
 
@@ -81,7 +81,7 @@ public class RecommendHandler extends AbstractPage implements HomePageStrategy {
     }  
 
     @Override  
-    public Page<ESIdeaPO> page(String current, String size) {  
+    public Page&lt;ESIdeaPO&gt; page(String current, String size) {  
         return null;  
     }  
 }
@@ -90,3 +90,9 @@ public class RecommendHandler extends AbstractPage implements HomePageStrategy {
 在这个示例中，`@PostConstruct` 注解的作用是确保在构造函数执行后立即调用 `register` 方法，从而将实例注册到管理器中。
 
 以上就是策略模式在 Java 中的一个示例实现，其中展示了如何定义策略接口、实现不同的策略，并通过一个管理器类来动态选择使用哪个策略。
+
+---
+
+> Author: Deequoique  
+> URL: http://localhost:1313/spring%E6%A1%86%E6%9E%B6%E4%B8%AD%E4%BC%98%E9%9B%85%E5%9C%B0%E4%BD%BF%E7%94%A8%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F/  
+

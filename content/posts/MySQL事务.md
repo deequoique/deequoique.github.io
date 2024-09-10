@@ -5,6 +5,7 @@ draft = false
 author = "Deequoique"
 categories = ["八股文"]
 tags = ["DB"]
+summary = "MySQL的事务一直是难点+面试考点"
 +++
 ## ACID
 

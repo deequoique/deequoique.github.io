@@ -1,7 +1,7 @@
 # 考研计划
 
 
-{{< admonition type=tip title="作息时间表（五月、六月）" open=true >}}
+{{&lt; admonition type=tip title=&#34;作息时间表（五月、六月）&#34; open=true &gt;}}
 
 **08:30 - 9:30** 起床吃饭，制定一天计划表
 
@@ -15,8 +15,14 @@
 
 **22:00 - 22:30** 写复盘总结
 
-{{< /admonition >}}
+{{&lt; /admonition &gt;}}
 
 总的来说两个小时进行一个长时间歇息，中间采用番茄钟休息法，小的休息方式为健身，长时间吉他。
 
 8点半起床，12点睡觉。
+
+---
+
+> Author: Deequoique  
+> URL: http://localhost:1313/%E8%80%83%E7%A0%94%E6%97%B6%E9%97%B4%E8%A1%A8/  
+

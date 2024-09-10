@@ -35,7 +35,7 @@ chapter9
 
 #### 数据结构
 - [ ]树形查找
-- [ ]B树和B+树
+- [ ]B树和B&#43;树
 - [ ]哈希表
 
 #### 英语
@@ -56,7 +56,7 @@ chapter9
 
 #### 数据结构
 - [x]树形查找
-- [x]B树和B+树
+- [x]B树和B&#43;树
 - [ ]哈希表
 
 #### 英语
@@ -64,7 +64,7 @@ chapter9
 
 
 #### 总结
-<img src="/day/redblacktree.png" width = 90%>
+&lt;img src=&#34;/day/redblacktree.png&#34; width = 90%&gt;
 
 红黑树一图流，不知道该把它放哪了。就先怼到博客里。
 
@@ -174,3 +174,9 @@ chapter8 排序
 困困困困困，今天一定要早睡。
 
 终于生理期来了，我爽了。
+
+---
+
+> Author: Deequoique  
+> URL: http://localhost:1313/6%E6%9C%88%E8%80%83%E7%A0%94%E8%AE%B0%E5%BD%95w3/  
+

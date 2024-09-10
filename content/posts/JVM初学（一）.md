@@ -5,9 +5,10 @@ draft = false
 author = "Deequoique"
 categories = ["八股文"]
 tags = ["JAVA"]
+summary = "初学者易读，感谢JavaGuide"
 +++
 
-首先上一个经典JVM图，来自[guide哥](https://javaguide.cn/java/jvm/memory-area.html)
+首先上一个经典JVM图，来自[JavaGuide](https://javaguide.cn/java/jvm/memory-area.html)
 
 <img src="/image/jvm.png" width = 80%>
 
