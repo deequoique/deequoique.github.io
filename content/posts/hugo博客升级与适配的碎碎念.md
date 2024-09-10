@@ -196,7 +196,7 @@ tags = []
 - [ ]浏览量统计
 - [ ]过时横幅
 - [ ]图床升级
-- [ ]profile美化
-- [ ]友链
+- [x]profile美化
+- [x]友链
 - [ ]社交账号
-- [ ]google/baidu/bing上站
+- [x]google/baidu/bing上站
