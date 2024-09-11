@@ -388,7 +388,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         enable = false
       #  utterances 评论系统设置
       [params.page.comment.utterances]
-        enable = true
+        enable = false
         # owner/repo
         repo = "deequoique/deequoique.github.io"
         issueTerm = "title"
@@ -397,21 +397,22 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         darkTheme = "github-dark"
       # giscus comment 评论系统设置 (https://giscus.app/zh-CN)
       [params.page.comment.giscus]
-        # 你可以参考官方文档来使用下列配置
-        enable = false
-        repo = ""
-        repoId = ""
+        enable = true
+        repo = "deequoique/deequoique.github.io"
+        repoId = "R_kgDOK8AUew"
         category = "Announcements"
-        categoryId = ""
-        # 为空时自动适配当前主题 i18n 配置
-        lang = ""
+        categoryId = "DIC_kwDOK8AUe84CiX5r"
         mapping = "pathname"
+        origin = "https://giscus.app" # FixIt NEW | 0.3.7 Or set it to your self-hosted domain
+        strict = "0" # FixIt NEW | 0.2.18
+        term = ""
         reactionsEnabled = "1"
         emitMetadata = "0"
-        inputPosition = "bottom"
-        lazyLoading = false
+        inputPosition = "top" # ["top", "bottom"]
+        lang = "zh-CN"
         lightTheme = "light"
         darkTheme = "dark"
+        lazyLoad = true
     #  第三方库配置
     [params.page.library]
       [params.page.library.css]
