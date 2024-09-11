@@ -221,6 +221,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.social]
    Email = "puppy_road@163.com"
    
+  # 浏览统计
+  [params.busuanzi]
+    enable = true
+    source = "https://vercount.one/js"
+    siteViews = true
+    pageViews = true
+
   #  文章页面全局配置
   [params.page]
     #  是否在主页隐藏一篇文章
