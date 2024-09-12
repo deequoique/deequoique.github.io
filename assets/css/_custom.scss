@@ -1,10 +1,12 @@
 .home-profile {
     margin-left: -1rem;
     margin-right: -1rem;
-    background: rgb(87, 85, 84);
-	opacity: .85;
+    background: #302F27;
+    opacity: .85;
     color: #ffffff;
+    @include link(false, false);
 }
+
 [data-theme='dark'] .home-profile {
     background: #42444b;
 	opacity: .8;
@@ -35,6 +37,7 @@
 	padding-right: 1rem;
     background: white;
 	opacity: .95;
+    // @include link(false, false);
 }
 
 [data-theme='dark'] .footer {

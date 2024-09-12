@@ -220,9 +220,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       enable = true
       # 主页每页显示文章数量
       paginate = 6
-      #  被 params.page 中的 hiddenFromHomePage 替代
-      # 当你没有在文章前置参数中设置 "hiddenFromHomePage" 时的默认行为
-      defaultHiddenFromHomePage = false
 
   # 作者的社交信息设置
   [params.social]
@@ -257,6 +254,19 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     linkToMarkdown = true
     #  是否在 RSS 中显示全文内容
     rssFullText = false
+    # FixIt 0.2.17 | 更改 开启自动书签支持
+    # 如果为 true，则在关闭页面时保存阅读进度
+    autoBookmark = false
+    # FixIt 0.2.17 | 新增 是否使用 字数统计
+    wordCount = true
+    # FixIt 0.2.17 | 新增 是否使用 预计阅读
+    readingTime = true
+    # FixIt 0.2.18 | 新增 是否开启即时页面
+    instantPage = true
+  # FixIt 0.3.0 | 新增 是否在侧边栏显示集合列表
+    collectionList = false
+    # FixIt 0.3.0 | 新增 是否在文章末尾显示集合导航
+    collectionNavigation = false
     #  目录配置
     [params.page.toc]
       # 是否使用目录
@@ -309,12 +319,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       Whatsapp = false
       Pinterest = false
       Tumblr = false
-      HackerNews = true
+      HackerNews = false
       Reddit = false
       VK = false
       Buffer = false
       Xing = false
-      Line = true
+      Line = false
       Instapaper = false
       Pocket = false
       Flipboard = false
@@ -402,7 +412,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         repoId = "R_kgDOK8AUew"
         category = "Announcements"
         categoryId = "DIC_kwDOK8AUe84CiX5r"
-        mapping = "title"
+        mapping = "pathname"
         origin = "https://giscus.app" # FixIt NEW | 0.3.7 Or set it to your self-hosted domain
         strict = "0" # FixIt NEW | 0.2.18
         term = ""

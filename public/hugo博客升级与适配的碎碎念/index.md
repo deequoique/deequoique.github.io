@@ -12,17 +12,17 @@
 ### 移动端适配
 就在这个过程中我才想起之前的css在移动端自适应一直有问题。我调前端css的经验非常少，这次上手才知道不是让gpt output这么简单。又折腾了半个小时，终于把元素调到了一个满意的效果。
 
-不说废话了上代码，把这个放到`assets/css/_custom.css`里（没有的话建一个），就能覆盖两个主题的css了。
+不说废话了上代码，把这个放到`assets/css/_custom.css`里（没有的话建一个），就能覆盖两个主题的css了。(LoveIt的暗黑模式改成：[theme=dark])
 ``` scss
 .home-profile {
     margin-left: -1rem;
     margin-right: -1rem;
-    background: rgb(52, 48, 45);
+    background: rgb(87, 85, 84);
 	opacity: .85;
     color: #ffffff;
 }
-[theme=dark] .home-profile {
-    background: #3a3535;
+[data-theme=&#39;dark&#39;] .home-profile {
+    background: #42444b;
 	opacity: .8;
 }
 .summary {
@@ -34,7 +34,7 @@
     background: white;
 	opacity: .95;
 }
-[theme=dark] .summary {
+[data-theme=&#39;dark&#39;] .summary {
     background: #3a3535;
 }
 .footer {
@@ -52,24 +52,8 @@
     background: white;
 	opacity: .95;
 }
-.footer {
-    display: block;
-    border-top-width: 3px;
-    border-top-style: solid;
-    border-top-color: #6670ab;
-    position: relative;
-    z-index: -1;
-    max-width: 800px;
-    width: 60%;
-    margin: 0.1rem auto 0 auto;
-    padding-left: 1rem;
-    padding-right: 1rem;
-    background: white;
-    opacity: 0.95;
-}
 
-
-[theme=dark] .footer {
+[data-theme=&#39;dark&#39;] .footer {
     background: #3a3535;
 }
 /* 目录 */
@@ -77,10 +61,10 @@
     background: white;
 	opacity: .95;
 }
-[theme=dark] .toc {
+[data-theme=&#39;dark&#39;] .toc {
     background: #3a3535;
 }
-[theme=dark] #toc-auto {
+[data-theme=&#39;dark&#39;] #toc-auto {
     border-left-color: #6f6a6a;
 }
 
@@ -102,9 +86,9 @@
     background: rgb(255, 255, 255);	
 	opacity: .95;
 }
-[theme=dark] .page.archive,
-[theme=dark] .page.single,
-[theme=dark] .page.single.special {
+[data-theme=&#39;dark&#39;] .page.archive,
+[data-theme=&#39;dark&#39;] .page.single,
+[data-theme=&#39;dark&#39;] .page.single.special {
     background: #3a3535;
 }
 
@@ -112,7 +96,7 @@
     color: #a9a9b3;
 }
 
-[theme=dark] .archive .archive-item-date {
+[data-theme=&#39;dark&#39;] .archive .archive-item-date {
     color: #a9a9b3;
 }
 
@@ -136,7 +120,7 @@
 	font-weight: initial;
 }
 
-[theme=dark] .archive .tag-cloud-tags a sup {
+[data-theme=&#39;dark&#39;] .archive .tag-cloud-tags a sup {
     color: #a9a9b3;
 }
 
@@ -182,7 +166,7 @@
 ### 评论区复活
 先前一直用的valine的评论服务，国内的网根本看不到，所以后来形同虚设。
 
-现在换到了utteranc，开源&#43;GitHub，稳稳的很安心。
+现在换到了~~utteranc~~giscus，开源&#43;GitHub，稳稳的很安心。
 
 ### 之后要做的
 - [x]浏览量统计
