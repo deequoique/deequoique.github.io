@@ -3,7 +3,7 @@ title: 打上花火
 subtitle:
 date: 2024-03-20T13:34:13+08:00
 slug: afc1c18
-draft: true
+draft: false
 description:
 keywords:
 comment: true
@@ -14,7 +14,7 @@ hiddenFromHomePage: false
 hiddenFromSearch: true
 hiddenFromRelated: true
 hiddenFromFeed: true
-summary: 无法再次遇见青春的烟花
+summary: 成年后该如何面对青春的烟花？
 resources:
   - name: featured-image
     src: PixPin_2024-09-12_13-50-24.png
@@ -28,7 +28,7 @@ message:
 ---
 <!--more-->
 
->香港迪士尼游，小小记。
+>港迪小小记。
 
 wmm是我在介于懂事和不懂事之间的中二期喜欢上的那个人，那时候大家也都是那样，喷发的激素和没发育完全的脑子，撞在一起，炖成了混乱的一锅粥。于是她爱他爱她爱他爱她爱她爱他爱他，如今再想起，倒也不算乏善可陈，但也只是莞尔。
 
