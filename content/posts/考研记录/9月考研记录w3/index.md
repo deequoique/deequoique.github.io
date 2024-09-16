@@ -3,7 +3,7 @@ title: 9月考研记录w3
 subtitle:
 date: 2024-09-16T09:33:58+08:00
 slug: bea606d
-draft: true
+draft: false
 description:
 keywords:
 comment: true
