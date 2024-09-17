@@ -6,8 +6,11 @@ author = "Deequoique"
 categories = ["码农日记"]
 tags = []
 +++
- 以vscode为例，在项目根文件夹建立.vscode文件夹，文件夹内创建`tasks.json`文件，内容如下
+{{< admonition type=warning >}}
+此方法并非最佳实践，更好的方法是使用[git action workflow](https://docs.github.com/en/actions/writing-workflows)，在一个远端仓库中通过简单的git push即可自动完成存储与部署。（待整理）
+{{< /admonition >}}
 <!--more-->
+ 以vscode为例，在项目根文件夹建立.vscode文件夹，文件夹内创建`tasks.json`文件，内容如下
 ``` json
 {
     "label": "Publish Blog",
