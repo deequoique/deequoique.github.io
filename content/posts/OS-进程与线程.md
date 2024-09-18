@@ -34,7 +34,7 @@ message:
 **PCB**：进程控制块，一个描述进程基本情况和运行状态的数据结构。
 >[!NOTE]-
 >进程由PCB、程序段、相关数据段组成，创建进程就是创建进程的PCB，反之撤销亦然。
->![Pasted image 20240905160909.png](OS-chapter2-media/4ee21d214aad41c02296c530c0a1887f43be3366.png "wikilink")
+>![进程的组成](OS-chapter2-media/4ee21d214aad41c02296c530c0a1887f43be3366.png "wikilink")
 
 ### 进程的状态
 
@@ -55,7 +55,7 @@ direction LR
 #### 线程组织方式
 - 利用指针**链表**式控制，将用的比较多的进程排在前面。（eg：就绪列指针 -> pcb1 -> pcb2）
 - 利用索引表控制。
-![进程的组成](OS-chapter2-media/cb00f3e7d9f31461fdc7c183a59ce3f3934d4f54.png "wikilink")
+![线程组织方式](OS-chapter2-media/cb00f3e7d9f31461fdc7c183a59ce3f3934d4f54.png "wikilink")
 #### 原语概念
 利用一个原子化操作，将进程的状态转换。（将指针删除，转移到另一队列，必须原子化）
 - 实现方法：关中断/开中断
