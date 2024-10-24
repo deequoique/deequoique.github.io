@@ -10,7 +10,7 @@ comment: true
 tags:
 categories:
   - 考研日记
-hiddenFromHomePage: false
+hiddenFromHomePage: true
 hiddenFromSearch: false
 hiddenFromRelated: false
 hiddenFromFeed: false
@@ -27,11 +27,11 @@ message:
 ---
 {{< admonition type=abstract title="周计划" open=false >}}
 - [ ]660题 [80]/[130]
-- [ ]操作系统chapter3（包括习题）
+- [x]操作系统chapter3（包括习题）
 - [ ]操作系统chapter4
 - [ ]马原[9]/[21]
-- [ ]阅读[07]/[11]
-- [ ]线性代数5
+- [ ]阅读[10]/[11]
+- [x]线性代数5
 - [ ]线性代数6
 {{< /admonition >}}
 <!--more-->
@@ -63,3 +63,5 @@ message:
 - 操作系统3.1习题 (番茄×3 2h15m) 
 - 马原10 (番茄×2 1h) 
 - 英语单词100 
+
+> 最后一次记录，越记录越焦虑，之后就先随缘不记了。
