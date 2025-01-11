@@ -10,7 +10,7 @@ comment: true
 tags:
 categories:
   - 碎碎念
-hiddenFromHomePage: false
+hiddenFromHomePage: true
 hiddenFromSearch: true
 hiddenFromRelated: true
 hiddenFromFeed: true
