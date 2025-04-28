@@ -23,10 +23,8 @@ comment: true
 留下评论:
 
 ````markdown
-```yaml
 - nickname: <your nickname>
   avatar: <your avatar>
   url: <your site link>
   description: <description of your site>
-```
 ````
